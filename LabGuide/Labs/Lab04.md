@@ -1,4 +1,4 @@
-## Lab 04 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
+## Lab 04 - Configure Priority accounts
 
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
