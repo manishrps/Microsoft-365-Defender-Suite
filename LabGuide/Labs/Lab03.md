@@ -1,4 +1,4 @@
-## Lab 01 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
+## Lab 03 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
 
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
