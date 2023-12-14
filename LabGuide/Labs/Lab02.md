@@ -40,3 +40,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/image_17.png)
 
+## Review
+In this lab, you will complete the following tasks:
+- Configure DMARC For MOERA Domain.
+
