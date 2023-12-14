@@ -41,5 +41,5 @@ In this lab, you will complete the following tasks:
 
 ## Review
 In this lab, you will complete the following tasks:
-- Learn about Create Block Entries.
+- Create Block Entries.
 
