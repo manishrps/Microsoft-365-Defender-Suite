@@ -1,4 +1,4 @@
-## Lab 05 - Configure block/allow lists
+## Lab 05 - Configure Block/Allow Lists
 
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
