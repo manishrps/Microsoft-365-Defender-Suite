@@ -27,10 +27,9 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/image_11.png)
 
 1. In the **Block domains & addresses** flyout that opens, configure the following settings:
-
- - **Domains & addresses**: Enter one email address or domain per line, up to a maximum of 20.
- - **Remove block entry after**: Select 1 days.
- - **Optional note**: you can optional note here.
+   - **Domains & addresses**: Enter one email address or domain per line, up to a maximum of 20.
+   - **Remove block entry after**: Select 1 days.
+   - **Optional note**: you can optional note here.
 
 1. When you're finished in the Block domains & addresses flyout, select **Add**.
 
