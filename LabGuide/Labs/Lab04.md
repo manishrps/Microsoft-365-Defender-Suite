@@ -30,7 +30,11 @@ In this lab, you will complete the following tasks:
 1. Cllick on **Submit** and **Done**.
 
    ![Picture 1](../Media/image_7.png)
-   ![Picture 1](../Media/image_8.png)   
+   ![Picture 1](../Media/image_8.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Learn about Add Priority Accounts.
    
 
 
