@@ -18,10 +18,25 @@ In this lab, you will complete the following tasks:
 
 1. Expand **Settings** and press **Domains**.
 
-   ![Picture 1](../Media/image_1.png)
+   ![Picture 1](../Media/image_14.png)
 
 1. Select your tenant domain.
 
-1. On the page that loads, select DNS records.
+1. On the page that loads, select **DNS records**.
 
-1. Select + Add record.
+1. Select **+ Add record**.
+
+   ![Picture 1](../Media/image_15.png)
+
+1. A flyout will appear on the right. Ensure that the selected Type is **TXT** (Text).
+
+1. Add as **TXT name**, **TXT value** and **TTL**. 
+
+1. Click on **Save**.
+
+   ![Picture 1](../Media/image_16.png)
+
+1. Back on the **DNS records** tab, the entry is listed.
+
+   ![Picture 1](../Media/image_17.png)
+
