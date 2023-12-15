@@ -3,7 +3,7 @@
 ## Lab scenario
 To help your organization protect these accounts, you can now designate specific users as priority accounts and leverage app-specific features that provide them with extra protection.
 
-## Lab objectives (Duration: 120 minutes)
+## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
 - Task 1: Add Priority Accounts.
