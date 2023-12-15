@@ -19,6 +19,7 @@ In this lab, you will complete the following tasks:
       ![Picture 1](../Media/image_18.png)
    
 1. On the **Select technique** page, select **Credential Harvest** and Click on **Next**.
+
       ![Picture 1](../Media/image_19.png)
    
 1. On the Name simulation page, configure the following settings:
@@ -33,4 +34,20 @@ When you're finished on the Name simulation page, select **Next**.
 
       ![Picture 1](../Media/image_22.png)
 
-1. 
+1.  On the **Target users** screen, Select **Include only specific users and groups** and Click **Add users**.
+
+      ![Picture 1](../Media/image_23.png)
+
+1.  Select for your user, Click on **Add 1 User(s)**.
+
+      ![Picture 1](../Media/image_24.png)
+
+1. Click on **Next**.
+
+      ![Picture 1](../Media/image_25.png)
+
+1. On the **Exclude Users** page and Click on **Next**.
+
+      ![Picture 1](../Media/image_26.png)
+
+1.  
