@@ -26,9 +26,9 @@ In this lab, you will complete the following tasks:
 
    - **Name**: Enter a unique, descriptive name (**Creadentials_Simulation**) for the simulation.
    - **Description**: Enter an optional detailed description for the simulation.
-When you're finished on the Name simulation page, select **Next**.
+  When you're finished on the Name simulation page, select **Next**.
 
-      ![Picture 1](../Media/image_20.png)
+   ![Picture 1](../Media/image_20.png)
 
 1. On the **Select payload and login page** page, you need to select **Microsoft Account Password Reset** and Click on **Next**.
 
