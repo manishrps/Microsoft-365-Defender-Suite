@@ -1,4 +1,4 @@
-## Lab 06 - Launch phishing simulation campaigns. 
+## Lab 06 - Launch Phishing Simulation Campaigns. 
 
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
