@@ -1,4 +1,4 @@
-## Lab 02 - Configure Email authentication
+## Lab 02 - Configure Email Authentication
 
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
