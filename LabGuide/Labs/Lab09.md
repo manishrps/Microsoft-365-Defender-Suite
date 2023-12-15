@@ -14,39 +14,29 @@ In this lab, you will complete the following tasks:
 
 To enable Defender for Endpoint integration with Defender for Cloud Apps:
 
-1. In [Microsoft Defender XDR](https://security.microsoft.com/), from the navigation pane, select Settings.
+1. In [Microsoft Defender XDR](https://security.microsoft.com/), from the navigation pane, select Settings and Select Endpoints.
 
-   ![Picture 1](../Media/image_3.png)
+   ![Picture 1](../Media/DiscoverApps1.png)
 
-2. Select Endpoints.
+2. Under General, select Advanced features. Toggle the Microsoft Defender for Cloud Apps to On. Select Save preferences.
 
-   ![Picture 1](../Media/image_3.png)
+   ![Picture 1](../Media/DiscoverApps2.png)
 
-3. Under General, select Advanced features.
-
-   ![Picture 1](../Media/image_3.png)
-
-4. Toggle the Microsoft Defender for Cloud Apps to On.
-
-   ![Picture 1](../Media/image_3.png)
-
-5. Select Apply.
-
-   ![Picture 1](../Media/image_3.png)
 
 To configure the severity for alerts sent to Microsoft Defender for Endpoint:
 
 1. In the Microsoft Defender Portal, select Settings. Then choose Cloud Apps. Under Cloud Discovery, select Microsoft Defender for Endpoint.
 
-   ![Picture 1](../Media/image_3.png)
+   ![Picture 1](../Media/DiscoverApps3.png)
+
+   ![Picture 1](../Media/DiscoverApps4.png)
 
 2. Under Alerts, select the global severity level for alerts.
 
-   ![Picture 1](../Media/image_3.png)
+   ![Picture 1](../Media/DiscoverApps5.png)
 
 3. Select Save.
 
-   ![Picture 1](../Media/image_3.png)
 
 To create a snapshot report:
 
