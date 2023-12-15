@@ -54,4 +54,23 @@ When you're finished on the Name simulation page, select **Next**.
 
       ![Picture 1](../Media/image_27.png)
 
-1. 
+1. On the **Select Phish landing page**, select **Use landing pages from library** and **Payload Indicator**, Under *Global landing pages* select **Microsoft Landing Page Template 2**  and Click on **Next**.
+
+      ![Picture 1](../Media/image_28.png)
+
+1.  **Select end user notification** page , Select **Microsoft default notification (recommended)** and under the *Notifications* section, In  the  *Microsoft default notification Positive reinforcement notifications* select the **Deliver during simulations** and in *Microsoft default training reminder notification* select the **Twice a week**, Click on **Next**.
+
+      ![Picture 1](../Media/image_29.png)
+
+1. On the **Launch details** page, Click on **Next**.
+
+      ![Picture 1](../Media/image_31.png)
+
+1. In *Review Simulation* page, **Send a test** and Click on **Submit**.
+
+      ![Picture 1](../Media/image_32.png)
+
+1. Click on **Done**.
+
+      ![Picture 1](../Media/image_33.png)
+   
