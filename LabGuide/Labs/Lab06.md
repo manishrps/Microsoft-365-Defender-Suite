@@ -73,4 +73,8 @@ In this lab, you will complete the following tasks:
 1. Click on **Done**.
 
       ![Picture 1](../Media/image_33.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Simulate a Pishing Attack.
    
