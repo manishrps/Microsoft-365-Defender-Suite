@@ -50,4 +50,8 @@ When you're finished on the Name simulation page, select **Next**.
 
       ![Picture 1](../Media/image_26.png)
 
-1.  
+1.  On the **Assign training** page Select the Recommended **Microsoft training experience** and **Assign training for me**, Select **Due Date** as **7 days after Simulation ends**, Click on **Next**.
+
+      ![Picture 1](../Media/image_27.png)
+
+1. 
