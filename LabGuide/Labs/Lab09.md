@@ -10,9 +10,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-### Task 1: Add Priortiy Accounts.
+### Task 1: Enable Defender for Endpoint integration.
 
-To enable Defender for Endpoint integration with Defender for Cloud Apps:
 
 1. In [Microsoft Defender XDR](https://security.microsoft.com/), from the navigation pane, select Settings and Select Endpoints.
 
@@ -22,8 +21,7 @@ To enable Defender for Endpoint integration with Defender for Cloud Apps:
 
    ![Picture 1](../Media/DiscoverApps2.png)
 
-
-To configure the severity for alerts sent to Microsoft Defender for Endpoint:
+### Task 2: Configure the severity for alerts.
 
 1. In the Microsoft Defender Portal, select Settings. Then choose Cloud Apps. Under Cloud Discovery, select Microsoft Defender for Endpoint.
 
@@ -37,8 +35,7 @@ To configure the severity for alerts sent to Microsoft Defender for Endpoint:
 
 3. Select Save.
 
-
-To create a snapshot report:
+### Task 1: Create a snapshot report.
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 2. In the Microsoft Defender Portal, under Cloud Apps, select Cloud discovery.
