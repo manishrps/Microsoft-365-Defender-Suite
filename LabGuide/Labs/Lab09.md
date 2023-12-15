@@ -7,8 +7,8 @@ In this lab you will explore about the *Microsoft Defender Portal*.
 
 In this lab, you will complete the following tasks:
 - Task 1: Enable Defender for Endpoint integration
-- Task 1: Configure the severity for alerts
-- Task 1: Create a snapshot report
+- Task 2: Configure the severity for alerts
+- Task 3: Create a snapshot report
 
 ## Architecture Diagram
 
