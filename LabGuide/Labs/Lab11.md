@@ -3,7 +3,7 @@
 ## Lab scenario
 In this lab you will explore about the *Microsoft Defender Portal*.
 
-## Lab objectives (Duration: 120 minutes)
+## Lab objectives (Duration:  minutes)
 
 In this lab, you will complete the following tasks:
 - Task 1: Configure alert notifications in Microsoft Defender XDR
