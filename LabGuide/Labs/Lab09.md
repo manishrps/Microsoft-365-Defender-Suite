@@ -1,7 +1,7 @@
 ## Lab 09 - Discover Apps 
 
 ## Lab scenario
-In this lab you will explore about the *Microsoft Defender Portal*.
+In this lab you will explore about the *Discover Apps in Microsoft Defender Portal*.
 
 ## Lab objectives (Duration: 120 minutes)
 
