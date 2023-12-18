@@ -1,7 +1,7 @@
 ## Lab 11 - Setup Alerts & App Governance 
 
 ## Lab scenario
-In this lab you will explore about the *Microsoft Defender Portal*.
+In this lab you will explore about the *Setup Alerts & App Governance in Microsoft Defender Portal*.
 
 ## Lab objectives (Duration:  minutes)
 
@@ -42,9 +42,9 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/alert7.png)
 
-### Task 2: Create OAuth app policies for Microsoft Entra ID
+### Task 2: Setup App Governance  
 
-### Task 2.1: Turn on app governance
+#### Task 2.1: Turn on app governance
 
 1. Go to https://security.microsoft.com/ > Settings > Cloud Apps > App governance
 
@@ -61,7 +61,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/AppGovernance4.png)
 
 
-### Task 2.2: Create OAuth app policies for Microsoft Entra ID
+#### Task 2.2: Create OAuth app policies for Microsoft Entra ID
 
 1. To create a new app policy for Azure AD apps, go to Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy.
 
