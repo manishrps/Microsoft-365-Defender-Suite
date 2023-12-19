@@ -54,7 +54,8 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/AppGovernance3.png)
    
-**Note**: You'll need to wait up to 10 hours to see and use the product.
+>**Note**: You'll need to wait up to 10 hours to see and use the product.
+
 
 3. After getting, app governance provisioned You will see app governance page. In Privacy consent required tab. Select **Accept**.
 
