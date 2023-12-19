@@ -107,4 +107,10 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/AppGovernance6-14.png)
 
+## Review
+In this lab, you will complete the following tasks:
+- Configure alert notifications in Microsoft Defender XDR
+- Turn on app governance
+- Create OAuth app policies for Microsoft Entra ID
+
 
