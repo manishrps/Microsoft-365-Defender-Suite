@@ -105,7 +105,7 @@ In this lab, you will complete the following tasks:
 
 10. Under review your policy select **Submit** and select **Done**
 
-   ![Picture 1](../Media/AppGovernance6-14.png)
+    ![Picture 1](../Media/AppGovernance6-14.png)
 
 ## Review
 In this lab, you will complete the following tasks:
