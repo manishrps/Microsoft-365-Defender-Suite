@@ -32,3 +32,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/accesspolicy3.png)
 
 >**Note**: You can increase/decrease the Daily alert limit per policy as per the requirement.
+
+## Review
+In this lab, you will complete the following tasks:
+- Created App Access Policies
