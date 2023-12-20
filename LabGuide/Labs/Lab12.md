@@ -1,7 +1,7 @@
 ## Lab 12 - Investigate Alerts and activities
 
 ## Lab scenario
-In this lab you will explore about the *Investigate Alerts and activities in Microsoft Defender Portal*.
+In this lab, you will explore about the *Investigate Alerts and activities in Microsoft Defender Portal*.
 
 ## Lab objectives (Duration:  minutes)
 
