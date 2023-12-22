@@ -1,7 +1,8 @@
 ## Lab 07 - Create Incidents 
 
 ## Lab scenario
-In this lab you will explore about the *Create Incidents in Microsoft Defender Portal*.
+
+Creating Incidents in Microsoft 365 Defender involves identifying potential security threats from various alerts and promptly responding to mitigate risks. Security analysts investigate these alerts to confirm their severity and impact.
 
 ## Lab objectives (Duration: 120 minutes)
 
