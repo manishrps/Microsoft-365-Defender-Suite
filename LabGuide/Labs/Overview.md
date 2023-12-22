@@ -44,8 +44,7 @@ Microsoft Sentinel
 - Lab 12 - Investigate Alerts and activities
 - Lab 13 - Deploy Domain Controller 
 - Lab 14 - Setup Defender for Identity Sensors 
-- Lab 15 - Download and schedule defender for identity reports. 
-- Lab 16 - Create workbooks
+- Lab 15 - Download and schedule defender for identity reports.
 
 ### Azure services and related products
 
