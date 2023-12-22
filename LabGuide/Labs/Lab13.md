@@ -14,7 +14,7 @@ In this lab, you will complete the following tasks:
 
 ### Task 1: Deploy Domain Controller 
 
-### Task 1.1 : Configure VM with Static IP Addresses
+#### Task 1.1 : Configure VM with Static IP Addresses
 
 Domain controllers need a static IP address and the DNS pointing to itself. For on-premises DCs you would just go into the NIC settings and manually configure the IP settings. With Azure VMs it’s recommended to set this at the Virtual Network Interface.
 
@@ -32,7 +32,7 @@ Domain controllers need a static IP address and the DNS pointing to itself. For 
 
    ![Picture 1](../Media/dc21.png)
 
-### Task 1.2 : Install Active Directory Domain Services
+#### Task 1.2 : Install Active Directory Domain Services
 
 With a VM pre-created and the IP settings configured we can move forward with installing Active Directory on the server.
 1. From the jump VM. Search for **Server Manager** from the start menu and select it. Go to the server manager and click on **Add roles and features**.
@@ -97,5 +97,8 @@ With a VM pre-created and the IP settings configured we can move forward with in
 
    ![Picture 1](../Media/dc16.png)
 
-
+## Review
+In this lab, you will complete the following tasks:
+- Configure VM with Static IP Addresses
+- Install Active Directory Domain Services
 
