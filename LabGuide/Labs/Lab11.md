@@ -1,7 +1,8 @@
 ## Lab 11 - Setup Alerts & App Governance 
 
 ## Lab scenario
-In this lab you will explore about the *Setup Alerts & App Governance in Microsoft Defender Portal*.
+
+Alerts & App Governance in Microsoft 365 Defender involves creating alert mechanisms to swiftly detect potential risks in app usage and implementing governance strategies for compliance and risk mitigation. Using tools like Microsoft Cloud App Security, admins configure customized alerts for unusual activities or policy violations. Simultaneously, governance frameworks ensure compliance, manage access, and mitigate risks. These measures empower organizations to maintain control, respond promptly to threats, and enforce security policies.
 
 ## Lab objectives (Duration:  minutes)
 
