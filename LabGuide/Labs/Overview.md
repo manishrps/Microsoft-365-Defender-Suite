@@ -1,4 +1,4 @@
-# SIEM with Microsoft Sentinel 
+# Microsoft 365 Defender Suite
 
 ## Overview
 
