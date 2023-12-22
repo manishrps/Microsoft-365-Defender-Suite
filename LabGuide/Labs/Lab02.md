@@ -1,7 +1,8 @@
 ## Lab 02 - Configure Email authentication
 
 ## Lab scenario
-In this lab you will explore about the *Microsoft Defender Portal*.
+
+Email authentication (also known as email validation) is a group of standards that tries to stop email messages from forged senders (also known as spoofing). Microsoft 365 uses the following standards to verify inbound email:SPF, DKIM, DMARC.
 
 ## Lab objectives (Duration: 120 minutes)
 
