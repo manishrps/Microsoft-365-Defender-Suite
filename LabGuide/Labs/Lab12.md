@@ -1,7 +1,8 @@
 ## Lab 12 - Investigate Alerts and activities
 
 ## Lab scenario
-In this lab, you will explore about the *Investigate Alerts and activities in Microsoft Defender Portal*.
+
+Investigating Alerts and activities within the Microsoft 365 Defender suite involves scrutinizing flagged alerts and tracking user activities to ascertain potential security threats or anomalies within an organization's digital environment. Security analysts delve into these alerts, verifying their validity and severity, using tools like Microsoft Defender for Endpoint or Microsoft Defender for Office 365
 
 ## Lab objectives (Duration:  minutes)
 
