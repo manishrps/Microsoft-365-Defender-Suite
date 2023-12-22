@@ -109,3 +109,9 @@ In this lab, you will complete the following tasks:
 7. Under Review tab. Select Create button.
 
    ![Picture 1](../Media/PHISHING9.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Configure Anti-Spam
+- Configure Anti-malware
+- Configure Anti-phishing
