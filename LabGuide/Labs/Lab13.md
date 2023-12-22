@@ -1,7 +1,8 @@
 ## Lab 13 - Deploy Domain Controller 
 
 ## Lab scenario
-In this lab you will explore about the *Deploying Domain Controller*.
+
+A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources like computers, printers, and files into a hierarchical structure. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
 
 ## Lab objectives (Duration: minutes)
 
