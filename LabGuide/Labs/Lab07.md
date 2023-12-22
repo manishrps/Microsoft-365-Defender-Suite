@@ -4,7 +4,7 @@
 
 Creating Incidents in Microsoft 365 Defender involves identifying potential security threats from various alerts and promptly responding to mitigate risks. Security analysts investigate these alerts to confirm their severity and impact.
 
-## Lab objectives (Duration: 120 minutes)
+## Lab objectives (Duration:  minutes)
 
 In this lab, you will complete the following tasks:
 - Task 1: Simulated Attacks
