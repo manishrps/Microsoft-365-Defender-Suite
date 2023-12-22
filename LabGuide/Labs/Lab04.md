@@ -2,9 +2,12 @@
 
 ## Lab scenario
 
+
 Configuring Priority Accounts within the Microsoft 365 Defender suite involves identifying and designating specific user accounts or groups as high-priority targets for security monitoring and protection. These priority accounts typically include key executives, IT administrators, or individuals with access to sensitive data or critical systems.
 
-## Lab objectives (Duration:  minutes)
+
+## Lab objectives (Duration: minutes)
+
 
 In this lab, you will complete the following tasks:
 - Task 1: Add Priority Accounts.
@@ -31,7 +34,11 @@ In this lab, you will complete the following tasks:
 1. Cllick on **Submit** and **Done**.
 
    ![Picture 1](../Media/image_7.png)
-   ![Picture 1](../Media/image_8.png)   
+   ![Picture 1](../Media/image_8.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Add Priority Accounts.
    
 
 

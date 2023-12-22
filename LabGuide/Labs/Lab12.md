@@ -4,7 +4,8 @@
 
 Investigating Alerts and activities within the Microsoft 365 Defender suite involves scrutinizing flagged alerts and tracking user activities to ascertain potential security threats or anomalies within an organization's digital environment. Security analysts delve into these alerts, verifying their validity and severity, using tools like Microsoft Defender for Endpoint or Microsoft Defender for Office 365
 
-## Lab objectives (Duration:  minutes)
+## Lab objectives (Duration: minutes)
+
 
 In this lab, you will complete the following tasks:
 - Task 1: Tag apps as sanctioned or unsanctioned
