@@ -70,3 +70,9 @@ In this lab, you will complete the following tasks:
 10. Select Discovered apps to see all the apps present in the portal.
 
    ![Picture 1](../Media/DiscoverApps 15.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Enable Defender for Endpoint integration
+- Configure the severity for alerts
+- Create a snapshot report
