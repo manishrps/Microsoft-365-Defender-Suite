@@ -28,7 +28,7 @@ The lab scenarios are given as reference material to assist you in getting start
 
 ## Contents:
 
-Microsoft Sentinel
+Microsoft 365 Defender Suite
 
 - Lab 01 - Explore Microsoft Defender Portal 
 - Lab 02 - Configure Email authentication
