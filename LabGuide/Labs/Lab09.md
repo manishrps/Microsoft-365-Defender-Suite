@@ -38,7 +38,7 @@ In this lab, you will complete the following tasks:
 
 3. Select Save.
 
-### Task 1: Create a snapshot report.
+### Task 3: Create a snapshot report.
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 2. In the Microsoft Defender Portal, under Cloud Apps, select Cloud discovery.
