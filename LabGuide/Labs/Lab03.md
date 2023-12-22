@@ -85,7 +85,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/MALWARE8.png)
 
-### Task 2: Configure Anti-phishing
+### Task 3: Configure Anti-phishing
    
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 2. Go to **Settings** > **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
