@@ -12,7 +12,7 @@ In this lab, you will complete the following tasks:
 ## Architecture Diagram
 
 
-### Task 1: Simulated Attacks
+### Task 1: Simulated Attacks to create Incident
 
 In this task, you will run two simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
 
@@ -59,3 +59,7 @@ In this task, you will run two simulated attacks to explore the capabilities of 
    ![Picture 1](../Media/incident4.png)
 
    ![Picture 1](../Media/incident5.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Simulated Attacks to create Incident
