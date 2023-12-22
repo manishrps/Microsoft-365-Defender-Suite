@@ -4,7 +4,7 @@
 
 Discovering Apps in the Microsoft 365 Defender suite involves gaining visibility into the applications used across an organization's digital environment. This process aims to comprehensively catalog and understand the landscape of applications, including cloud-based, on-premises, and third-party apps. By leveraging various tools and services within the suite, such as Microsoft Cloud App Security, administrators can identify and assess these applications for security risks, compliance adherence, and data usage patterns.
 
-## Lab objectives (Duration: 120 minutes)
+## Lab objectives (Duration:  minutes)
 
 In this lab, you will complete the following tasks:
 - Task 1: Enable Defender for Endpoint integration
