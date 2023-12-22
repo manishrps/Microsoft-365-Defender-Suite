@@ -1,7 +1,8 @@
 ## Lab 01 - Explore Microsoft Defender Portal
 
 ## Lab scenario
-In this lab you will explore about the *Microsoft Defender Portal*.
+
+The Microsoft Defender portal at https://security.microsoft.com combines protection, detection, investigation, and response to email, collaboration, identity, device, and cloud app threats, in a central place. The Defender portal emphasizes quick access to information, simpler layouts, and bringing related information together for easier use.
 
 ## Lab objectives (Duration:  minutes)
 

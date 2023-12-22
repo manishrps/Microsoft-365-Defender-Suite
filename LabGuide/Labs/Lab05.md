@@ -1,9 +1,12 @@
 ## Lab 05 - Configure Block/Allow Lists
 
 ## Lab scenario
-In this lab you will explore about the *Microsoft Defender Portal*.
+
+
+Configuring Block/Allow Lists within the Microsoft 365 Defender suite involves managing lists of allowed and blocked entities, such as email addresses, domains, or specific file types, to control what enters or leaves an organization's environment.
 
 ## Lab objectives (Duration: minutes)
+
 
 In this lab, you will complete the following tasks:
 - Task 1: Create Block Entries
@@ -42,4 +45,3 @@ In this lab, you will complete the following tasks:
 ## Review
 In this lab, you will complete the following tasks:
 - Create Block Entries.
-
