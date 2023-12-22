@@ -8,7 +8,7 @@ A Domain Controller (DC) is a vital component in a Windows-based network that ma
 
 In this lab, you will complete the following tasks:
 - Task 1.1: Configure VM with Static IP Addresses
-- Task 1.1: Install Active Directory Domain Services
+- Task 1.2: Install Active Directory Domain Services
 
 ## Architecture Diagram
 
@@ -20,19 +20,17 @@ Domain controllers need a static IP address and the DNS pointing to itself. For 
 
 1. Go to **svm-<inject key="DeploymentID" enableCopy="false" /></inject>** virtual machine. In the left-hand menu for your VM under settings click on **Networking**.Now click on the Network Interface for the VM **svm-<inject key="DeploymentID" enableCopy="false" /></inject>-nic**.
 
-   ![Picture 1](../Media/incident3.png)
+   ![Picture 1](../Media/dc19.png)
 
 2. Click on **IP Configurations** in the left menu under settings. Next click on **ipconfig1** under IP configurations.
 
-   ![Picture 1](../Media/incident3.png)
-
 3. Change the IP from **Dynamic** to **Static** and enter the IP address you want the domain controller to have, it must be an IP from the subnet you assigned to your virtual network like 10.0.0.4. Click **Save**.
 
-   ![Picture 1](../Media/incident3.png)
+   ![Picture 1](../Media/dc20.png)
 
 4. Go back to the Network Interface and click on **DNS servers**. Set the DNS server to the IP address of the domain controller.
 
-   ![Picture 1](../Media/incident3.png)
+   ![Picture 1](../Media/dc21.png)
 
 ### Task 1.2 : Install Active Directory Domain Services
 
