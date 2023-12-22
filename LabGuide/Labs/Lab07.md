@@ -7,7 +7,7 @@ Creating Incidents in Microsoft 365 Defender involves identifying potential secu
 ## Lab objectives (Duration:  minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Simulated Attacks
+- Task 1: Simulated Attacks create Incident
 
 ## Architecture Diagram
 
