@@ -1,16 +1,25 @@
 ## Lab 03 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
 
+## Overview
+
+In Microsoft 365 Defender, use Defender for Office 365 to set up Anti-Spam, Anti-Malware, and Anti-Phishing measures. Access the Security & Compliance Center to create policies tailored to detect and manage spam emails, shield against malicious attachments and links, and identify phishing attempts.
+
+Anti-Spam: Anti-spam policies control the configurable settings for spam filtering. Anti-Spam policy filters incoming and outgoing emails, using various techniques like content analysis and sender reputation checks to detect and block spam.
+
+Anti-Malware: Anti-Malware policies are designed to safeguard against malware, viruses, spyware, and other harmful software that could be transmitted through emails. Anti-Malware policies scan incoming and outgoing emails for malicious content like malware and viruses. They use signature-based and behavior-based detection to identify threats, taking predefined actions upon detection, such as quarantining or deleting malicious attachments or links.
+
+Anti-phishing: Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security feature designed to protect against phishing attacks within emails. Anti-phishing feature works by continuously scanning incoming emails in real-time, employing techniques like suspicious URLs and content analysis to detect potential phishing threats.
+
 ## Lab scenario
 
-
-In Microsoft 365 Defender, use Defender for Office 365 to set up Anti-Spam, Anti-Malware, and Anti-Phishing measures. Access the Security & Compliance Center to create policies tailored to detect and manage spam emails, shield against malicious attachments and links, and identify phishing attempts. Configure settings like whitelists, scanning parameters, and URL checks.
+To allow Contoso users to Configure Anti-Spam, Anti-Malware, and Anti-Phishing policies in Microsoft Defender for Office 365 involves setting up rules to detect unwanted emails (spam), safeguard against malicious software (malware), and identify and block phishing attempts. This includes defining criteria for detection, specifying actions upon detection (such as quarantine or deletion), and ensuring regular updates for robust threat identification. Each policy aims to tailor defenses according to the organization's security needs, enhancing protection within the email ecosystem against spam, malware, and phishing threats.
 
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Configure Anti-Spam
-- Task 2: Configure Anti-malware
-- Task 3: Configure Anti-phishing
+- Task 1: Configure Anti-Spam Policy
+- Task 2: Configure Anti-malware Policy
+- Task 3: Configure Anti-phishing Policy
 
 ## Architecture Diagram
 
