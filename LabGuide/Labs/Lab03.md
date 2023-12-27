@@ -23,6 +23,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab3-arch.png)
+
 ## Exercise 1: Configure Protection Policies
 
 ### Task 1: Configure Anti-Spam
