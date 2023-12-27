@@ -6,7 +6,7 @@ In Microsoft 365 Defender, use Defender for Office 365 to set up Anti-Spam, Anti
 
 ## Lab scenario
 
-To allow Contoso users to Configure Anti-Spam, Anti-Malware, and Anti-Phishing policies in Microsoft Defender for Office 365 involves setting up rules to detect unwanted emails (spam), safeguard against malicious software (malware), and identify and block phishing attempts. This includes defining criteria for detection, specifying actions upon detection (such as quarantine or deletion), and ensuring regular updates for robust threat identification. Each policy aims to tailor defenses according to the organization's security needs, enhancing protection within the email ecosystem against spam, malware, and phishing threats.
+In this lab, you will Configure Anti-Spam, Anti-Malware, and Anti-Phishing policies in Microsoft Defender for Office 365 involves setting up rules to detect unwanted emails (spam), safeguard against malicious software (malware), and identify and block phishing attempts.
 
 ## Lab objectives (Duration: minutes)
 
@@ -124,6 +124,6 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure Anti-Spam
-- Configure Anti-malware
-- Configure Anti-phishing
+- Configure Anti-Spam Policy
+- Configure Anti-malware Policy
+- Configure Anti-phishing Policy
