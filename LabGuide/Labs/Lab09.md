@@ -16,17 +16,17 @@ In this lab, you will complete the following tasks:
 ### Task 1: Enable Defender for Endpoint integration.
 
 
-1. In [Microsoft Defender XDR](https://security.microsoft.com/), from the navigation pane, select Settings and Select Endpoints.
+1. In [Microsoft Defender XDR](https://security.microsoft.com/), from the navigation pane, select **Settings** and then Select **Endpoints**.
 
    ![Picture 1](../Media/DiscoverApps 1.png)
 
-2. Under General, select Advanced features. Toggle the Microsoft Defender for Cloud Apps to On. Select Save preferences.
+2. Under General, select **Advanced features**. Toggle the Microsoft Defender for Cloud Apps to On. Select **Save preferences**.
 
    ![Picture 1](../Media/DiscoverApps 2.png)
 
 ### Task 2: Configure the severity for alerts.
 
-1. In the Microsoft Defender Portal, select Settings. Then choose Cloud Apps. Under Cloud Discovery, select Microsoft Defender for Endpoint.
+1. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**. Under Cloud Discovery, select **Microsoft Defender for Endpoint**.
 
    ![Picture 1](../Media/DiscoverApps 3.png)
 
@@ -36,34 +36,35 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/DiscoverApps 5.png)
 
-3. Select Save.
+3. Select **Save**.
 
 ### Task 3: Create a snapshot report.
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
-2. In the Microsoft Defender Portal, under Cloud Apps, select Cloud discovery.
+2. In the Microsoft Defender Portal, under Cloud Apps, select **Cloud discovery**.
 
    ![Picture 1](../Media/DiscoverApps 6.png)
 
-3. In the top-right corner, pull down Actions, and select Create Cloud Discovery snapshot report. Select Next.
+3. In the top-right corner, pull down Actions, and select **Create Cloud Discovery snapshot report**. Select **Next**.
 
    ![Picture 1](../Media/DiscoverApps 7.png)
 
-4. Enter a Report name and a Description.
+4. Provide the details in the report details tab, Click on **Download sample log** which we will be using in next step and Select **Next**.
+- **Report name** : Report<inject key="DeploymentID" enableCopy="false" /></inject>
+- **Description** : New report
+- **Source** : Blue coat ProxySG - Access log(W3C)
 
-   ![Picture 1](../Media/DiscoverApps 1.png)
+   ![Picture 1](../Media/DiscoverApps 9.png)
 
-5. Select Browse and chhose the source from which you want to upload the log files. Select Upload logs.
-
-   ![Picture 1](../Media/DiscoverApps 10.png)
-
-6. Verify your log format to make sure that it's formatted properly according to the sample log you can download. Under Verify your log format, select View log format then select Download sample log. Compare your log with the sample provided to make sure it's compatible.
-
-7. Upload traffic logs that you want to upload. You can upload up to 20 files at once. Compressed and zipped files are also supported.Select Upload logs.After upload completes, the status message will appear at the top-right corner of your screen letting you know that your log was successfully uploaded.
+5. Select **Browse** and choose the source from which you want to upload the log files and select the sample log file which was downloaded in previous step. Select **Upload logs**.
 
    ![Picture 1](../Media/DiscoverApps 10.png)
 
-9. Select Settings.Then under Cloud Discovery, select Snapshot reports, and select your snapshot report. You can see all the details regarding the report that you have uploaded.
+> **Note**: Verify your log format to make sure that it's formatted properly according to the sample log you can download. Under Verify your log format, select View log format then select Download sample log. Compare your log with the sample provided to make sure it's compatible.
+
+> **Note**: Verify your log format to make sure that it's formatted properly according to the sample log you can download. Upload traffic logs that you want to upload. You can upload up to 20 files at once. Compressed and zipped files are also supported.
+
+9. Select **Settings**.Then under Cloud Discovery, select **Snapshot reports**, and select your snapshot report. You can see all the details regarding the report that you have uploaded.
 
    ![Picture 1](../Media/DiscoverApps 13.png)
 
