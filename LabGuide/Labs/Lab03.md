@@ -1,4 +1,4 @@
-## Lab 03 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
+## Lab 03 - Configure Protection Policies
 
 ## Overview
 
