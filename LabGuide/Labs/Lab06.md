@@ -76,6 +76,17 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_33.png)
 
+1. It will navigate back to the **Attack Simulation training** page, where it shows the created **simulation**.
+
+1. Click on the **Creadentials_simulation** and navigate to the **Report** section.
+
+      ![Picture 1](../Media/image_33.png)
+
+1. Users will receive an email notification after some time. The Defender captures and records the user details when the user clicks on the URL, and respective training will be assigned to them.
+
+      ![Picture 1](../Media/image_.png)
+
+
 ## Review
 In this lab, you will complete the following tasks:
 - Simulate a Pishing Attack.
