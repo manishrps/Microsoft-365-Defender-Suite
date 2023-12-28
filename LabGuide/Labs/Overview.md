@@ -7,14 +7,11 @@ Microsoft 365 Defender is an integrated security suite designed to offer compreh
 
 ### Key features of Microsoft Sentinel
 
-- Microsoft Defender for Endpoint: Defender for Endpoint is a unified endpoint platform for preventative protection, post-breach detection, automated investigation, and response.
 - Microsoft Defender for Office 365: Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs) and collaboration tools.
-- Microsoft Defender for Identity: Microsoft Defender for Identity is a cloud-based security solution that leverages your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
-- Microsoft Defender for Cloud Apps: Microsoft Defender for Cloud Apps is a comprehensive cross-SaaS solution bringing deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
-- Microsoft Defender Vulnerability Management: Microsoft Defender Vulnerability Management delivers continuous asset visibility, intelligent risk-based assessments, and built-in remediation tools to help your security and IT teams prioritize and address critical vulnerabilities and misconfigurations across your organization.
-- Microsoft Entra ID Protection: Microsoft Entra ID Protection helps organizations detect, investigate, and remediate identity-based risks. These identity-based risks can be further fed into tools like Conditional Access to make access decisions or fed back to a security information and event management (SIEM) tool for further investigation and correlation.
-- Microsoft Data Loss Prevention: In Microsoft Purview, you implement data loss prevention by defining and applying DLP policies. With a DLP policy, you can identify, monitor, and automatically protect sensitive items
-- App Governance: App governance in Defender for Cloud Apps is a set of security and policy management capabilities designed for OAuth-enabled apps registered on Microsoft Entra ID, Google, and Salesforce.
+
+- Microsoft Defender for Cloud Apps: Microsoft Defender for Cloud Apps is a Cloud Access Security Broker (CASB) that operates on multiple clouds. This provides full visibility and in-depth data to identify and protect all of your Microsoft and third-party cloud services from cyberthreats. With security professionals in mind, Microsoft Defender for Cloud Apps incorporates innovative automation along with centralized management and simple deployment.
+
+- Microsoft Defender for Identity: Microsoft 365 Defender for Identity is a cloud-based service designed to help protect on-premise, cloud and hybrid environments from various types of internal threats and targeted cyber-attacks. This is accomplished by leveraging your on-premise Active Directory signals to detect advanced threats early and identify malicious insider actions directed at your organization.
 
 ## Sandbox Scenario
 Contoso is a global organization with a complex IT infrastructure that includes a combination of on-premises data centers and cloud-based resources. They are looking to enhance their security posture by deploying Azure Sentinel, Microsoft's cloud-native security information and event management (SIEM) and security orchestration automation and response (SOAR) solution. Additionally, Contoso aims to onboard its cloud resources and servers to Azure Sentinel to gain better visibility and proactive threat detection and response capabilities.
@@ -23,7 +20,7 @@ By implementing a robust log analytics and threat detection program, Contoso aim
 
 ## About the Sandbox
 
-Using this environment, You'll be able to explore complete features and offerings offered by Microsoft Sentinel. Please find the detailed overview of the sandbox environment below.
+Using this environment, You'll be able to explore features and offerings offered by Microsoft Defender. Please find the detailed overview of the sandbox environment below.
 
 ### Pre-provisioned resources
 
@@ -41,7 +38,7 @@ Using this environment, You'll be able to explore complete features and offering
 
 #### **Azure Credits**: 
 
-- You have been given a quota of **$83 USD** which includes the running cost of Pre-deployed resources, license cost, and other resources deployed while running through the lab.
+- You have been given a quota of **(we need to check and change )$83 USD** which includes the running cost of Pre-deployed resources, license cost, and other resources deployed while running through the lab.
 
   You will receive **cost alerts** to your registered email address at **50%/75%/90%/95%/100%** of the allotted Azure Credit is spent.
 
