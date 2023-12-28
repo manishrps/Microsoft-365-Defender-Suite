@@ -2,7 +2,7 @@
 
 ## Overview
 
-Microsoft Defender XDR is a unified pre- and post-breach enterprise defense suite that natively coordinates detection, prevention, investigation, and response across endpoints, identities, email, and applications to provide integrated protection against sophisticated attacks.
+Microsoft 365 Defender is an integrated security suite designed to offer comprehensive protection across various Microsoft 365 services. It brings together multiple security solutions to provide advanced threat protection, detection, and response capabilities.
 
 
 ### Key features of Microsoft Sentinel
@@ -28,6 +28,7 @@ In this sandbox environment, You'll have access to a predeployed environment wit
 Using this environment, You'll be able to explore complete features and offerings offered by Microsoft 365 Defender Suite.
 
 The lab scenarios are given as reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft 365 Defender Suite further based on your interests and preferences.
+
 
 ## Lab Guide Contents:
 You will have access to a lab guide which is a reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft Defender further based on your interests and preferences.
