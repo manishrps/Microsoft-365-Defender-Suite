@@ -32,7 +32,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/image_20.png)
 
-1. On the **Select payload and login page** page, you need to select **Microsoft Account Password Reset** and Click on **Next**.
+1. On the **Select payload and login page** page, you need to select **Reset Password** and Click on **Next**.
 
       ![Picture 1](../Media/image_22.png)
 
