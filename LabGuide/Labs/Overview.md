@@ -29,9 +29,8 @@ Using this environment, You'll be able to explore complete features and offering
 
 The lab scenarios are given as reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft 365 Defender Suite further based on your interests and preferences.
 
-## Contents:
-
-Microsoft 365 Defender Suite
+## Lab Guide Contents:
+You will have access to a lab guide which is a reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft Defender further based on your interests and preferences.
 
 - Lab 01 - Explore Microsoft Defender Portal 
 - Lab 02 - Configure Email authentication
@@ -51,6 +50,6 @@ Microsoft 365 Defender Suite
 
 ### Azure services and related products
 
-- Microsoft Defender for Cloud
-- Microsoft Defender for Endpoint
-- AZure ADDS
+- Microsoft Defender for Office 365
+- Microsoft Defender for Cloud Apps
+- Microsoft Defender for Identity
