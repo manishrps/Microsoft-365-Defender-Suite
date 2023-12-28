@@ -88,6 +88,9 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_38.png)
 
+1. Navigate back to the **Report** to check user activity.
+
+      ![Picture 1](../Media/image_40.png) 
 
 ## Review
 In this lab, you will complete the following tasks:
