@@ -14,9 +14,7 @@ Microsoft 365 Defender is an integrated security suite designed to offer compreh
 - Microsoft Defender for Identity: Microsoft 365 Defender for Identity is a cloud-based service designed to help protect on-premise, cloud and hybrid environments from various types of internal threats and targeted cyber-attacks. This is accomplished by leveraging your on-premise Active Directory signals to detect advanced threats early and identify malicious insider actions directed at your organization.
 
 ## Sandbox Scenario
-Contoso is a global organization with a complex IT infrastructure that includes a combination of on-premises data centers and cloud-based resources. They are looking to enhance their security posture by deploying Azure Sentinel, Microsoft's cloud-native security information and event management (SIEM) and security orchestration automation and response (SOAR) solution. Additionally, Contoso aims to onboard its cloud resources and servers to Azure Sentinel to gain better visibility and proactive threat detection and response capabilities.
-
-By implementing a robust log analytics and threat detection program, Contoso aims to proactively identify and mitigate threats, reduce the risk of security breaches, and maintain a strong security posture in an ever-evolving threat landscape. This approach will enable Contoso to stay ahead of potential threats and protect its digital assets effectively.
+Contoso Corporation, strategically implements the Microsoft 365 Defender Suite to fortify its cybersecurity posture. The corporation, operating in a dynamic and interconnected digital landscape, recognizes the critical importance of comprehensive security solutions. Contoso initiates implementation of Microsoft Defender for Office 365, Microsoft Defender for Cloud Apps,  Microsoft Defender for Identity to integrated security and designed to offer comprehensive protection across various Microsoft 365 services. It brings together multiple security solutions to provide advanced threat protection, detection, and response capabilities.
 
 ## About the Sandbox
 
