@@ -25,4 +25,26 @@ In this lab, you will complete the following tasks:
 
 1. Select **+ Create new policy**.
 
-1. 
+1. Enter a policy name, **MyTest**.
+
+1. Under **Users**, select **0 users and groups selected**, under **Include**, select **Select users and groups**.
+
+   ![Picture 1](../Media/image_43.png)
+
+1. select **Users and groups**.
+Choose your user account for the lab tenant and select **Select**.
+
+   ![Picture 1](../Media/image_45.png)
+   ![Picture 1](../Media/image_44.png)
+
+1. Under Target resources, select **No target resources selected**, under **Include**, select **Select apps**,under **Select** choose **None**, and then choose **Microsoft Forms**, and select **Select**.
+
+   ![Picture 1](../Media/image_46.png)
+
+1.  Under **Access controls**, under **Session**, select **0 controls selected**. Select the **Use Conditional Access App Control** box, select the drop-down and select **Monitor only (Preview)**, and select **Select**.
+
+   ![Picture 1](../Media/image_47.png)
+
+1. Under **Enable policy**, select **On**, and select **Create**.
+
+
