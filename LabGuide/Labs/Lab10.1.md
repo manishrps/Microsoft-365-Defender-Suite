@@ -43,7 +43,7 @@ Choose your user account for the lab tenant and select **Select**.
 
 1.  Under **Access controls**, under **Session**, select **0 controls selected**. Select the **Use Conditional Access App Control** box, select the drop-down and select **Monitor only (Preview)**, and select **Select**.
 
-   ![Picture 1](../Media/image_47.png)
+    ![Picture 1](../Media/image_47.png)
 
 1. Under **Enable policy**, select **On**, and select **Create**.
 
