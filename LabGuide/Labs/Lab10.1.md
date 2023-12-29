@@ -47,4 +47,12 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. Under **Enable policy**, select **On**, and select **Create**.
 
+## Task 3 - Log into Microsoft 365 and validate that conditional access is monitoring
+
+1. Launch a new InPrivate browsing window, and browse to https://www.microsoft365.com/.
+
+1. Select Sign in and log in them.
+
+1.    
+
 
