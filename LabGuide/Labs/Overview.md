@@ -44,7 +44,7 @@ Using this environment, You'll be able to explore features and offerings offered
 
   You can visit the Azure Subscription page to check the current Azure credit spend and Analysis on **Cost analysis** tab under the Cost Management option.
 
-  ![Picture 1](../media/o1.jpg)
+  ![Picture 1](../Media/o1.jpg)
 
 #### **Duration and Deletion of sandbox**:  
 
