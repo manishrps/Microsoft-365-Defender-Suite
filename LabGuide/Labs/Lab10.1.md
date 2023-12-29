@@ -14,3 +14,15 @@ In this lab, you will complete the following tasks:
 ## Architecture Diagram
 
 ### Task 1: Configure integration with Microsoft Entra ID
+
+1. Navigate to Azure Portal, in **Search resources, services and docs** search and select for **Microsoft Entra ID**.
+
+   ![Picture 1](../Media/image_41.png)
+
+1. From the left-hand navigation pane, under **Manage**, select **Security**.
+
+1. From the left-hand navigation pane, under **Protect**, select **Conditional Access**.
+
+1. Select **+ Create new policy**.
+
+1. 
