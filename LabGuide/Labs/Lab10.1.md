@@ -63,11 +63,13 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. **Under Activities matching all of the following**, select the drop-down for **Intune compliant**, **Hybrid Azure AD joined** and unselect **Hybrid Azure AD joined**.
 
+   ![Picture 1](../Media/image_48.png)
+
 1. Select the drop-down for Select apps, select **Microsoft 365**.
 
 1. Leave **Actions** as **Test**.
 
-1. Under **Alerts**, leave **Create an alert**... checked and select **Send alert as email**.
+1. Under **Alerts**, leave **Create an alert**... checked and select **Send alert as email** and Enter your mail id.
 
 1. Enter and select.
 
