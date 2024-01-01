@@ -75,3 +75,32 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. Select **Create** to create the access policy.
 
+1. Launch a new InPrivate browsing window, and browse to https://forms.microsoft.com.
+
+1. Select Sign in and log in them.
+
+1. Confirm that you get a new message as shown below:
+
+    - Access to Microsoft Forms is monitored.
+
+   ![Picture 1](../Media/image_49.png)
+
+1. Close the InPrivate browsing window.
+
+## Task 3 - Review the Activity Log in Defender for Cloud Apps
+
+1. Return to the browswer running Microsoft 365 Defender.
+
+2. Refresh the browser to ensure the most recent data is downloaded.
+
+3. From the left-hand navigation pane, under **Cloud apps**, select **Activity log**.
+
+4. Using the **App: filter** pick **Microsoft Forms** from the list.
+
+5. Notice the sign-on records.
+
+   ![Picture 1](../Media/image_50.png)
+
+### Review
+
+1. 
