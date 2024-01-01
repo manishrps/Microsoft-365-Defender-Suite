@@ -103,4 +103,9 @@ Choose your user account for the lab tenant and select **Select**.
 
 ### Review
 
-1. 
+In this lab, you will complete the following tasks:
+
+- Configure integration with Microsoft Entra ID
+- Create App Access Policies
+- Review the Activity Log in Defender for Cloud Apps
+
