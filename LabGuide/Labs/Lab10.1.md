@@ -37,7 +37,7 @@ Choose your user account for the lab tenant and select **Select**.
    ![Picture 1](../Media/image_45.png)
    ![Picture 1](../Media/image_44.png)
 
-1. Under Target resources, select **No target resources selected**, under **Include**, select **Select apps**,under **Select** choose **None**, and then choose **Microsoft Forms**, and select **Select**.
+1. Under Target resources, select **No target resources selected**, under **Include**, select **Select apps**,under **Select** choose **None**, and then choose **Office 365**, and select **Select**.
 
    ![Picture 1](../Media/image_46.png)
 
@@ -47,12 +47,29 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. Under **Enable policy**, select **On**, and select **Create**.
 
-## Task 3 - Log into Microsoft 365 and validate that conditional access is monitoring
+## Task 2 - Create App Access Policies
 
 1. Launch a new InPrivate browsing window, and browse to https://www.microsoft365.com/.
 
-1. Select Sign in and log in them.
+1. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Policies -> Policy management**. Then select the **Conditional access** tab.
 
-1.    
+1. Select **Create policy** and then select **Access policy**.
 
+   ![Picture 1](../Media/accesspolicy1.png)
+
+1. Enter a name for the policy, **MyTestPolicy**.
+
+1. Leave the **Category** as **Access control**.
+
+1. **Under Activities matching all of the following**, select the drop-down for **Intune compliant**, **Hybrid Azure AD joined** and unselect **Hybrid Azure AD joined**.
+
+1. Select the drop-down for Select apps, select **Microsoft 365**.
+
+1. Leave **Actions** as **Test**.
+
+1. Under **Alerts**, leave **Create an alert**... checked and select **Send alert as email**.
+
+1. Enter and select.
+
+1. Select **Create** to create the access policy.
 
