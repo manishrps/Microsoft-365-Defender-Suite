@@ -37,7 +37,7 @@ Choose your user account for the lab tenant and select **Select**.
    ![Picture 1](../Media/image_45.png)
    ![Picture 1](../Media/image_44.png)
 
-1. Under Target resources, select **No target resources selected**, under **Include**, select **Select apps**,under **Select** choose **None**, and then choose **Office 365**, and select **Select**.
+1. Under Target resources, select **No target resources selected**, under **Include**, select **Select apps**,under **Select** choose **None**, and then choose **Microsoft Forms**, and select **Select**.
 
    ![Picture 1](../Media/image_46.png)
 
