@@ -67,4 +67,5 @@ In this lab, you will complete the following tasks:
 
 ## Review
 In this lab, you will complete the following tasks:
-- Create Block Entries.
+- Create Block List.
+- Create Allow List.
