@@ -9,12 +9,12 @@ Configuring Block/Allow Lists within the Microsoft 365 Defender suite involves m
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Create Block Lists
-- Task 1: Create Allow Lists
+- Exercise 1: Create Block Lists
+- Exercise 2: Create Allow Lists
 
 ## Architecture Diagram
 
-### Task 1: Create Block Lists
+### Exercise 1: Create Block Lists
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
@@ -44,7 +44,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/block2.png)
 
 
-### Task 2: Create Allow Lists
+### Exercise 2: Create Allow Lists
 
 1. In the Microsoft Defender portal, go to **Actions & submissions > Submissions** Or, go directly to the Submissions page, use [https://security.microsoft.com/reportsubmission](https://security.microsoft.com/reportsubmission)
 
