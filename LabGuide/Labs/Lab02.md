@@ -35,7 +35,9 @@ As we are using the MOERA domain for email, SPF (Sender Policy Framework) and DK
 
 1. A flyout will appear on the right. Ensure that the selected Type is **TXT** (Text).
 
-1. Add as **TXT name**, **TXT value** and **TTL**. 
+1. Add **TXT name** as **@** and **TXT value** as **"v=DMARC1; p=quarantine"** .
+
+1. Select **TTL** to **1 Hour**.
 
 1. Click on **Save**.
 
