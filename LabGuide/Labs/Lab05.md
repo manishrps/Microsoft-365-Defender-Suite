@@ -44,9 +44,11 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/block2.png)
 
-1. Once you configure the block URL, you send a mail to the user using your email ID with the given link: **contoso.com** in your email. They will find the mail is blocked.
+1. Once you configure the block URL, you can send a mail to the user using your email ID with the given link: **loop.microsoft.com** in your email. you will find the mail is blocked as you don't recived.
 
+   ![Picture 1](../Media/mail.png)
 
+    >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to recived mail.
 ### Exercise 2: Create Allow Lists
 
 1. In the Microsoft Defender portal, go to **Actions & submissions > Submissions** Or, go directly to the Submissions page, use [https://security.microsoft.com/reportsubmission](https://security.microsoft.com/reportsubmission)
