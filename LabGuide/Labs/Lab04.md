@@ -37,6 +37,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/image_8.png)
 
 1. It will navigate back to **User tag** page, user is added.
+   
    ![Picture 1](../Media/image_52.png)   
 
 ## Review
