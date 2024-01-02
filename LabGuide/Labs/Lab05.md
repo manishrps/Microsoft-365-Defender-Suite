@@ -44,6 +44,8 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/block2.png)
 
+1. Once you configure the block URL, you send a mail to the user using your email ID with the given link: **contoso.com** in your email. They will find the mail is blocked.
+
 
 ### Exercise 2: Create Allow Lists
 
