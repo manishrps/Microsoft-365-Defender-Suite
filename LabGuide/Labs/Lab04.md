@@ -10,11 +10,11 @@ In this Lab we will Configuring Priority Accounts, which involves identifying an
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Add Priority Accounts.
+- Exercise 1: Add Priority Accounts.
 
 ## Architecture Diagram
 
-### Task 1: Add Priortiy Accounts. 
+### Exercise 1: Add Priortiy Accounts. 
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
@@ -35,6 +35,9 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/image_7.png)
    ![Picture 1](../Media/image_8.png)
+
+1. It will navigate back to **User tag** page, user is added.
+   ![Picture 1](../Media/image_52.png)   
 
 ## Review
 In this lab, you will complete the following tasks:
