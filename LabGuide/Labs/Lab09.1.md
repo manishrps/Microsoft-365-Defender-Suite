@@ -18,7 +18,7 @@ In this lab, you will complete the following tasks:
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 1. In the Microsoft Defender Portal, under Cloud Apps, select **Cloud discovery** and Click on **Create a new report**.
 
-   ![Picture 1](../Media/DiscoverApps A.png)
+   ![Picture 1](../Media/image_51.png)
 
 1. Provide the details in the report details tab, Click on **Download sample log** which we will be using in next step and Select **Next**.
 - **Report name** : Report<inject key="DeploymentID" enableCopy="false" /></inject>
