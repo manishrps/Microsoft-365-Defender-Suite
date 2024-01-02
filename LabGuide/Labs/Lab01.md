@@ -7,12 +7,12 @@ The Microsoft Defender portal at https://security.microsoft.com combines protect
 ## Lab objectives (Duration:  minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Learn about Microsoft Defender Portal
-- Task 2: Login to Microsoft Defender Portal
+- Exercise 1: Learn about Microsoft Defender Portal
+- Exercise 2: Login to Microsoft Defender Portal
 
 ## Architecture Diagram
 
-### Task 1: Learn about Microsoft Defender Portal [Read Only]
+### Exercise 1: Learn about Microsoft Defender Portal [Read Only]
 
 The Microsoft Defender portal combines protection, detection, investigation, and response to email, collaboration, identity, device, and cloud app threats, in a central place. The Defender portal emphasizes quick access to information, simpler layouts, and bringing related information together for easier use. It includes:
 
@@ -22,7 +22,7 @@ The Microsoft Defender portal combines protection, detection, investigation, and
 - **Microsoft Defender for Identity:** is a cloud-based security solution that uses your on-premises Active Directory signals to identify, detect, and investigate advanced threats, compromised identities, and malicious insider actions directed at your organization.
 - **Microsoft Defender for Cloud Apps:** is a comprehensive cross-SaaS and PaaS solution bringing deep visibility, strong data controls, and enhanced threat protection to your cloud apps.
 
-### Task 2: Login to Microsoft Defender Portal
+### Exercise 2: Login to Microsoft Defender Portal
 
 1. start the Microsoft Edge browser.
 
