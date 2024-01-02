@@ -2,17 +2,20 @@
 
 ## Lab scenario
 
-Email authentication (also known as email validation) is a group of standards that tries to stop email messages from forged senders (also known as spoofing). Microsoft 365 uses the following standards to verify inbound email:SPF, DKIM, DMARC.
+In this Lab we will Configure Email authentication (also known as email validation) which is a group of standards that tries to stop email messages from forged senders (also known as spoofing). We are using the @*.onmicrosoft.com domain for email (also known as the Microsoft Online Email Routing Address or **MOERA** domain) authentication using **DMARC** (Domain-based Message Authentication, Reporting, and Conformance) in this lab.
+
 
 ## Lab objectives (Duration: minutes)
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Configure DMARC For MOERA Domain.
+- Exercise 1: Configure DMARC For MOERA Domain.
 
 ## Architecture Diagram
 
-### Task 1: Configure DMARC For MOERA Domain
+### Exercise 1: Configure DMARC For MOERA Domain
+
+As we using the MOERA domain for email SPF (Sender Policy Framework) and DKIM (DomainKeys Identified Mail) record will be already configured, we only need to manually set up the DMARC record.
 
 1. Open the Microsoft 365 admin center at https://admin.microsoft.com.
 
