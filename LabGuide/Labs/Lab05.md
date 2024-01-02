@@ -32,7 +32,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/block3.png)
 
 5. In the **Block URLs** flyout that opens, configure the following settings and select **Add**:
-   - **Add URLs with wildcards**: **contoso.com/***.
+   - **Add URLs with wildcards**: **loop.microsoft.com/***.
    - **Remove block entry after**: Select 30 days.
    - **Optional note**: The URLs listed have been blocked due to security reasons.
 
