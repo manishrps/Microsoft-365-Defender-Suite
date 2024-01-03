@@ -24,7 +24,7 @@ In this lab, you will complete the following tasks:
 Anti-spam policies control the configurable settings for spam filtering. Anti-Spam policy filters incoming and outgoing emails, using various techniques like content analysis and sender reputation checks to detect and block spam.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
-2. Go to **Settings** > **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
+2. Go to **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
    
    ![Picture 1](../Media/1.png)
 
@@ -65,7 +65,7 @@ Anti-spam policies control the configurable settings for spam filtering. Anti-Sp
 Anti-Malware policies are designed to safeguard against malware, viruses, spyware, and other harmful software that could be transmitted through emails. Anti-Malware policies scan incoming and outgoing emails for malicious content like malware and viruses. They use signature-based and behavior-based detection to identify threats, taking predefined actions upon detection, such as quarantining or deleting malicious attachments or links.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
-2. Go to **Settings** > **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
+2. Go to **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
    
    ![Picture 1](../Media/1.png)
 
@@ -98,7 +98,7 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security feature designed to protect against phishing attacks within emails. Anti-phishing feature works by continuously scanning incoming emails in real-time, employing techniques like suspicious URLs and content analysis to detect potential phishing threats.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
-2. Go to **Settings** > **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
+2. Go to **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
    
    ![Picture 1](../Media/1.png)
 
