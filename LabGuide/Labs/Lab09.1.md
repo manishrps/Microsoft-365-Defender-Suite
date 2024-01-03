@@ -8,12 +8,12 @@ Discovering Apps in the Microsoft 365 Defender suite involves gaining visibility
 
 In this lab, you will complete the following tasks:
 
-- Task 1: Create a snapshot report to Discovered Apps
+- Exercise 1: Create a snapshot report to Discovered Apps
 
 ## Architecture Diagram
 
 
-### Task 1: Create a snapshot report to Discovered Apps.
+### Exercise 1: Create a snapshot report to Discovered Apps.
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 1. In the Microsoft Defender Portal, under Cloud Apps, select **Cloud discovery** and Click on **Create a new report**.
