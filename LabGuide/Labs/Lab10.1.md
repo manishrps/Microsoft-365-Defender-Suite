@@ -8,12 +8,12 @@ App Access Policies within the Microsoft 365 Defender suite involves setting rul
 
 In this lab, you will complete the following tasks:
 
-- Task 1: Configure integration with Microsoft Entra ID
-- Task 2: Create App Access Policies
+- Exercise 1: Configure integration with Microsoft Entra ID
+- Exercise 2: Create App Access Policies
 
 ## Architecture Diagram
 
-### Task 1: Configure integration with Microsoft Entra ID
+### Exercise 1: Configure integration with Microsoft Entra ID
 
 1. Navigate to Azure Portal, in **Search resources, services and docs** search and select for **Microsoft Entra ID**.
 
@@ -47,7 +47,7 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. Under **Enable policy**, select **On**, and select **Create**.
 
-## Task 2 - Create App Access Policies
+## Exercise 2 - Create App Access Policies
 
 1. Launch a new InPrivate browsing window, and browse to https://www.microsoft365.com/.
 
@@ -87,7 +87,7 @@ Choose your user account for the lab tenant and select **Select**.
 
 1. Close the InPrivate browsing window.
 
-## Task 3 - Review the Activity Log in Defender for Cloud Apps
+## Exercise 3 - Review the Activity Log in Defender for Cloud Apps
 
 1. Return to the browswer running Microsoft 365 Defender.
 
