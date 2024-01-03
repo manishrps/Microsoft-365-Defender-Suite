@@ -2,10 +2,9 @@
 
 ## Lab scenario
 
-Investigating Alerts and activities within the Microsoft 365 Defender suite involves scrutinizing flagged alerts and tracking user activities to ascertain potential security threats or anomalies within an organization's digital environment. Security analysts delve into these alerts, verifying their validity and severity, using tools like Microsoft Defender for Endpoint or Microsoft Defender for Office 365
+In this lab, we will delve into investigating alerts and activities within the Microsoft Defender for Cloud environment. The scenario involves addressing security concerns related to cloud applications and user activities. we will have to tag specific apps as either sanctioned or unsanctioned, gaining hands-on experience in managing app classifications for security purposes.
 
 ## Lab objectives (Duration: minutes)
-
 
 In this lab, you will complete the following tasks:
 - Task 1: Tag apps as sanctioned or unsanctioned
