@@ -7,12 +7,12 @@ Alerts & App Governance in Microsoft 365 Defender involves creating alert mechan
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Configure alert notifications in Microsoft Defender XDR
-- Task 2: Setup App Governance  
+- Exercise 1: Configure alert notifications in Microsoft Defender XDR
+- Exercise 2: Setup App Governance  
 
 ## Architecture Diagram
 
-### Task 1: Configure alert notifications in Microsoft Defender XDR
+### Exercise 1: Configure alert notifications in Microsoft Defender XDR
 
 1. Go to Microsoft Defender XDR and sign in using an account with the Security administrator or Global administrator role assigned.
 2. In the navigation pane, select **Settings > Endpoints > General**.
@@ -43,7 +43,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/alert7.png)
 
-### Task 2: Setup App Governance  
+### Exercise 2: Setup App Governance  
 
 #### Task 2.1: Turn on app governance
 
