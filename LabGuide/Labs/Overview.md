@@ -65,10 +65,10 @@ You will have access to a lab guide which is a reference material to assist you 
 
 - Lab 01 - Explore Microsoft Defender Portal 
 - Lab 02 - Configure Email authentication
-- Lab 03 - Configure Protection Policies (Anti-Spam, Anti-malware and Anti-phishing) 
-- Lab 04 - Configure Priority accounts.  
-- Lab 05 - Configure block/allow lists. 
-- Lab 06 - Launch phishing simulation campaigns. 
+- Lab 03 - Configure Protection Policies 
+- Lab 04 - Configure Priority accounts 
+- Lab 05 - Configure block/allow lists
+- Lab 06 - Launch phishing simulation campaigns
 - Lab 07 - Create Incidents 
 - Lab 08 - Detect & Investigate threats
 - Lab 09 - Discover Apps 
@@ -77,7 +77,7 @@ You will have access to a lab guide which is a reference material to assist you 
 - Lab 12 - Investigate Alerts and activities
 - Lab 13 - Deploy Domain Controller 
 - Lab 14 - Setup Defender for Identity Sensors 
-- Lab 15 - Download and schedule defender for identity reports.
+- Lab 15 - Download and schedule defender for identity reports
 
 ### Azure services and related products
 
