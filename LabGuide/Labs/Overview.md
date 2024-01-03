@@ -5,7 +5,7 @@
 Microsoft 365 Defender is an integrated security suite designed to offer comprehensive protection across various Microsoft 365 services. It brings together multiple security solutions to provide advanced threat protection, detection, and response capabilities.
 
 
-### Key features of Microsoft Sentinel
+### Key features of Microsoft Defender
 
 - Microsoft Defender for Office 365: Defender for Office 365 safeguards your organization against malicious threats posed by email messages, links (URLs) and collaboration tools.
 
@@ -58,14 +58,6 @@ Using this environment, You'll be able to explore features and offerings offered
 - **Azure Cost Analysis**: Maintain a practice of checking the Cost Analysis report of the assigned Azure subscription oftenly in check the Azure spend so that enviornment for a longer duration of time.
 
 - **Alert notifications**: Make sure to check your registered email's inbox for any alert-related mails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
-
-## Using this Sandbox
-
-In this sandbox environment, You'll have access to a predeployed environment with an active Azure subscription, a tenant, and a Microsoft 365 E5 license assigned to the user. 
-
-Using this environment, You'll be able to explore complete features and offerings offered by Microsoft 365 Defender Suite.
-
-The lab scenarios are given as reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft 365 Defender Suite further based on your interests and preferences.
 
 
 ## Lab Guide Contents:
