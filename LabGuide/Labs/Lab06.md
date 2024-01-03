@@ -2,17 +2,17 @@
 
 ## Lab scenario
 
-Phishing Simulation Campaigns in Microsoft 365 Defender involve creating fake phishing emails to test and educate users. These campaigns mimic real attacks, evaluating users' responses to improve their awareness. They're set up by crafting realistic emails, sent to targeted groups, and monitored for user interactions. Reports are generated to analyze user behavior and provide immediate feedback for learning. Continuous analysis helps adapt training to enhance security awareness, strengthening defenses against actual phishing threats.
+Phishing Simulation Campaigns in Microsoft 365 Defender involve creating fake phishing emails to test and educate users. These campaigns mimic real attacks, evaluating users' responses to improve their awareness. They're set up by crafting realistic emails, sent to targeted groups, and monitored for user interactions. Reports are generated to analyze user behavior and provide immediate feedback for learning. Continuous analysis helps adapt training to enhance security awareness, strengthening defences against actual phishing threats.
 
 ## Lab objectives (Duration: minutes)
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Simulate a Pishing Attack.
+- Exercise 1: Simulate a Phishing Attack.
 
 ## Architecture Diagram
 
-### Exercise 1: Simulate a Pishing Attack.
+### Exercise 1: Simulate a Phishing Attack.
 
 1. Go to Microsoft Defender portal at https://security.microsoft.com.
 
@@ -26,7 +26,7 @@ In this lab, you will complete the following tasks:
    
 1. On the Name simulation page, configure the following settings:
 
-   - **Name**: Enter a unique, descriptive name (**Creadentials_Simulation**) for the simulation.
+   - **Name**: Enter a unique, descriptive name (**Credentials_Simulation**) for the simulation.
    - **Description**: Enter an optional detailed description for the simulation.
   When you're finished on the Name simulation page, select **Next**.
 
@@ -40,7 +40,7 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_23.png)
 
-1.  Select for your user, Click on **Add 1 User(s)**.
+1.  Select for your user, click on **Add 1 User(s)**.
 
       ![Picture 1](../Media/image_24.png)
 
@@ -48,19 +48,19 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_25.png)
 
-1. On the **Exclude Users** page and Click on **Next**.
+1. On the **Exclude Users** page and click on **Next**.
 
       ![Picture 1](../Media/image_26.png)
 
-1.  On the **Assign training** page Select the Recommended **Microsoft training experience** and **Assign training for me**, Select **Due Date** as **7 days after Simulation ends**, Click on **Next**.
+1.  On the **Assign training** page Select the Recommended **Microsoft training experience** and **Assign training for me**, Select **Due Date** as **7 days after Simulation ends**, click on **Next**.
 
       ![Picture 1](../Media/image_27.png)
 
-1. On the **Select Phish landing page**, select **Use landing pages from library** and **Payload Indicator**, Under *Global landing pages* select **Microsoft Landing Page Template 2**  and Click on **Next**.
+1. On the **Select Phish landing page**, select **Use landing pages from library** and **Payload Indicator**, Under *Global landing pages* select **Microsoft Landing Page Template 2** and click on **Next**.
 
       ![Picture 1](../Media/image_28.png)
 
-1.  **Select end user notification** page , Select **Microsoft default notification (recommended)** and under the *Notifications* section, In  the  *Microsoft default notification Positive reinforcement notifications* select the **Deliver during simulations** and in *Microsoft default training reminder notification* select the **Twice a week**, Click on **Next**.
+1.  **Select end user notification** page, Select **Microsoft default notification (recommended)** and under the *Notifications* section, In  the  *Microsoft default notification Positive reinforcement notifications* select the **Deliver during simulations** and in *Microsoft default training reminder notification* select the **Twice a week**, Click on **Next**.
 
       ![Picture 1](../Media/image_29.png)
 
@@ -68,7 +68,7 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_31.png)
 
-1. In *Review Simulation* page, **Send a test** and Click on **Submit**.
+1. In *Review Simulation* page, **Send a test** and click on **Submit**.
 
       ![Picture 1](../Media/image_32.png)
 
@@ -80,7 +80,7 @@ In this lab, you will complete the following tasks:
 
       ![Picture 1](../Media/image_34.png)
 
-1. Click on the **Creadentials_simulation** and navigate to the **Report** section.
+1. Click on the **Credentials_simulation** and navigate to the **Report** section.
 
       ![Picture 1](../Media/image_39.png)
 
@@ -94,5 +94,5 @@ In this lab, you will complete the following tasks:
 
 ## Review
 In this lab, you will complete the following tasks:
-- Simulate a Pishing Attack.
+- Simulate a Phishing Attack.
    
