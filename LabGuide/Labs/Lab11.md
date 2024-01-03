@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-Alerts & App Governance in Microsoft 365 Defender involves creating alert mechanisms to swiftly detect potential risks in app usage and implementing governance strategies for compliance and risk mitigation. Using tools like Microsoft Cloud App Security, admins configure customized alerts for unusual activities or policy violations. Simultaneously, governance frameworks ensure compliance, manage access, and mitigate risks. These measures empower organizations to maintain control, respond promptly to threats, and enforce security policies.
+In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, We will establish App Governance within Microsoft 365 Security, activating governance frameworks and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
 
 ## Lab objectives (Duration: minutes)
 
@@ -14,34 +14,18 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Configure alert notifications in Microsoft Defender XDR
 
-1. Go to Microsoft Defender XDR and sign in using an account with the Security administrator or Global administrator role assigned.
-2. In the navigation pane, select **Settings > Endpoints > General**.
+1. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**.
 
-   ![Picture 1](../Media/alert1.png)
+   ![Picture 1](../Media/alerts11.png)
 
-3. Click **Email notifications > Add notification rule**.
+2. Under My account, select **My email notifications**.
 
-   ![Picture 1](../Media/alert10.png)
+   ![Picture 1](../Media/alerts12.png)
 
-4. Under Create notification rule tab, in Basics option provide **Name : Rule<inject key="DeploymentID" enableCopy="false" /></inject>**. Click **Next**.
+3. In the My email notifications page, select the checkbox for **Receive email notifications for defender for Cloud Apps alerts whose severity is atleast** and under **Choose Severity** click on the dropdown button and select **Medium**. Click on **Save**.
 
-   ![Picture 1](../Media/alert2.png)
+   ![Picture 1](../Media/alerts13.png)
 
-5. Under Create notification rule tab, in Notification settings option, Keep the default option selected and select **Informational** in Alert severity. Click **Next**.
-
-   ![Picture 1](../Media/alert3.png)
-
-6. Under Create notification rule tab, in Recipients option, provide email id in Recipient email address: <inject key="AzureAdUserEmail"></inject>. Select **Add**.
-
-   ![Picture 1](../Media/alert4.png)
-
-7. Select **Send test email** to check the notification alert's working and Click **Next**.
-
-   ![Picture 1](../Media/alert6.png)
-
-8. Under Review rule tab. Select **Submit** and Click **Done**.
-
-   ![Picture 1](../Media/alert7.png)
 
 ### Exercise 2: Setup App Governance  
 
