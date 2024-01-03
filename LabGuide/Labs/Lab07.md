@@ -9,12 +9,12 @@ Creating Incidents in Microsoft 365 Defender involves identifying potential secu
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Simulated Attacks create Incident
+- Exercise 1: Simulated Attacks create Incident
 
 ## Architecture Diagram
 
 
-### Task 1: Simulated Attacks to create Incident
+### Exercise 1: Simulated Attacks to create Incident
 
 In this task, you will run two simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
 
