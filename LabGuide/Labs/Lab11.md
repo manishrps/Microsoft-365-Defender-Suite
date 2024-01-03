@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Configure alert notifications in Microsoft Defender XDR
 
+Setting up alerts in Microsoft Defender for Cloud Apps involves configuring policies to detect and notify about specific activities or security incidents within your cloud environment. These policies, tailored to your organization's needs, enable you to define conditions triggering alerts, specify alert severity levels, and choose notification channels.
+
 1. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**.
 
    ![Picture 1](../Media/alerts11.png)
