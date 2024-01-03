@@ -15,6 +15,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Create Block Lists
 
+In this exercise, we will access the Microsoft Defender Portal to create Block Lists. By configuring these lists, we can block specific URLs, using wildcards if needed. This action enhances our organization's security posture by preventing access to URLs that pose potential security threats. The configuration allows us to control and restrict the flow of traffic, ensuring a safer environment for our network and users.
+
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
 2. Go to **Policies & rules** and Click on **Threat Policies**.
@@ -48,6 +50,8 @@ In this lab, you will complete the following tasks:
 
     >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to recived mail.
 ### Exercise 2: Create Allow Lists
+
+In this exercise, we will utilize the Microsoft Defender portal to establish Allow Lists. By submitting URLs for Microsoft analysis, we enable the system to recognize and allow specific URLs that are deemed clean. This proactive approach helps in preventing false positives and ensures that legitimate URLs are not inadvertently blocked. Configuring Allow Lists is crucial for maintaining a balance between stringent security measures and allowing essential, trustworthy URLs to function seamlessly within our network.
 
 1. In the Microsoft Defender portal, go to **Actions & submissions > Submissions** Or, go directly to the Submissions page, use [https://security.microsoft.com/reportsubmission](https://security.microsoft.com/reportsubmission)
 
