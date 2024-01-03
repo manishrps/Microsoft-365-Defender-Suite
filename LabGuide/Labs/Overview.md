@@ -84,3 +84,4 @@ You will have access to a lab guide which is a reference material to assist you 
 - Microsoft Defender for Office 365
 - Microsoft Defender for Cloud Apps
 - Microsoft Defender for Identity
+- Microsoft Entra ID
