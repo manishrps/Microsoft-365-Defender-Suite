@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-In this lab, we will delve into investigating alerts and activities within the Microsoft Defender for Cloud environment. The scenario involves addressing security concerns related to cloud applications and user activities. we will have to tag specific apps as either sanctioned or unsanctioned, gaining hands-on experience in managing app classifications for security purposes.
+In this lab, we will delve into investigating alerts and activities within the Microsoft Defender for Cloud environment. The scenario involves addressing security concerns related to cloud applications and user activities. we will have to tag specific apps as either sanctioned or unsanctioned, utilization of investigation tools to meticulously examine the activity log of a designated app and gaining hands-on experience in managing app classifications for security purposes.
 
 ## Lab objectives (Duration: minutes)
 
