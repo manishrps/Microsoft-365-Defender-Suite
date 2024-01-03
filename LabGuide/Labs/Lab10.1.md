@@ -10,6 +10,7 @@ In this lab, you will complete the following tasks:
 
 - Exercise 1: Configure integration with Microsoft Entra ID
 - Exercise 2: Create App Access Policies
+- Exercise 3 - Review the Activity Log in Defender for Cloud Apps
 
 ## Architecture Diagram
 
