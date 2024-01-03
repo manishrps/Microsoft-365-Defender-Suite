@@ -19,9 +19,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/lab3-arch.png)
 
-## Exercise 1: Configure Protection Policies
-
-### Task 1: Configure Anti-Spam
+### Exercise 1: Configure Anti-Spam Policy
 
 Anti-spam policies control the configurable settings for spam filtering. Anti-Spam policy filters incoming and outgoing emails, using various techniques like content analysis and sender reputation checks to detect and block spam.
 
@@ -62,7 +60,7 @@ Anti-spam policies control the configurable settings for spam filtering. Anti-Sp
 
     ![Picture 1](../Media/10.png)
 
-### Task 2: Configure Anti-malware
+### Exercise 2: Configure Anti-malware Policy
 
 Anti-Malware policies are designed to safeguard against malware, viruses, spyware, and other harmful software that could be transmitted through emails. Anti-Malware policies scan incoming and outgoing emails for malicious content like malware and viruses. They use signature-based and behavior-based detection to identify threats, taking predefined actions upon detection, such as quarantining or deleting malicious attachments or links.
 
@@ -95,7 +93,7 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
    ![Picture 1](../Media/MALWARE8.png)
 
-### Task 3: Configure Anti-phishing
+### Exercise 3: Configure Anti-phishing Policy
 
 Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security feature designed to protect against phishing attacks within emails. Anti-phishing feature works by continuously scanning incoming emails in real-time, employing techniques like suspicious URLs and content analysis to detect potential phishing threats.
 
