@@ -21,7 +21,7 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Configure Anti-Spam Policy
 
-Anti-spam policies control the configurable settings for spam filtering. Anti-Spam policy filters incoming and outgoing emails, using various techniques like content analysis and sender reputation checks to detect and block spam.
+Anti-spam policies serve as the backbone for managing configurable settings related to spam filtering. These policies play a crucial role in filtering both incoming and outgoing emails, employing a diverse range of techniques such as content analysis and sender reputation checks to identify and prevent the transmission of spam. Anti-Spam policies are essential components in safeguarding your email communication against unwanted and potentially harmful spam. By configuring these policies, you gain control over the parameters that dictate how spam is identified and handled within your email environment.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 2. Go to **Email and Collaboration** > **Policies & rules**> Select the **Threat policies**.
@@ -44,7 +44,7 @@ Anti-spam policies control the configurable settings for spam filtering. Anti-Sp
 
    ![Picture 1](../Media/6.png)
 
-7. Under Bulk email threshold & spam properties tab. Keep the default option selected(If you want to do configurations according to the custom policy. you can add it here). and select Next.
+7. Under Bulk email threshold & spam properties tab. Keep the default option selected and select Next. (The properties are customizable and can be adjusted to suit specific requirements)
 
    ![Picture 1](../Media/7-1.png)
 

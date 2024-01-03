@@ -14,13 +14,13 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-### Exercise 1: Add Priortiy Accounts. 
+### Exercise 1: Add Priority Accounts. 
 
 By concentrating security efforts on Priority Accounts, organizations can effectively strengthen their overall security posture and better protect their most crucial accounts from potential cyber threats within the Microsoft 365 ecosystem.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
-1. Go to **Settings** > **Email and Collaboration** > **User Tags**> Select the  priority account tag is already created for you by default, Click on **Edit**.
+1. Go to **Settings** > **Email and Collaboration** > **User Tags**> Select the priority account tag is already created for you by default, click on **Edit**.
 
    ![Picture 1](../Media/image_3.png)
 
@@ -33,7 +33,7 @@ By concentrating security efforts on Priority Accounts, organizations can effect
 
    ![Picture 1](../Media/image_6.png)
 
-1. Cllick on **Submit** and **Done**.
+1. Click on **Submit** and **Done**.
 
    ![Picture 1](../Media/image_7.png)
    ![Picture 1](../Media/image_8.png)
