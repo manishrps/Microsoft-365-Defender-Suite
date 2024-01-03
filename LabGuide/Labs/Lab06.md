@@ -8,11 +8,11 @@ Phishing Simulation Campaigns in Microsoft 365 Defender involve creating fake ph
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Simulate a Pishing Attack.
+- Exercise 1: Simulate a Pishing Attack.
 
 ## Architecture Diagram
 
-### Task 1: Simulate a Pishing Attack.
+### Exercise 1: Simulate a Pishing Attack.
 
 1. Go to Microsoft Defender portal at https://security.microsoft.com.
 
