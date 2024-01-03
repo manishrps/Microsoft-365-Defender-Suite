@@ -2,9 +2,7 @@
 
 ## Lab scenario
 
-
-Configuring Block/Allow Lists within the Microsoft 365 Defender suite involves managing lists of allowed and blocked entities, such as email addresses, domains, or specific file types, to control what enters or leaves an organization's environment.
-The Tenant Allow/Block List in the Microsoft Defender portal gives you a way to manually override the Defender for Office 365. The list is used during mail flow for incoming messages from external senders. It apply to internal messages within the organization. However, block entries prevent users in the organization.
+This lab focuses on configuring Block and Allow Lists in Microsoft Defender to enhance security measures. The exercises will guide you through the process of creating Block Lists and Allow Lists to manage URLs effectively.
 
 ## Lab objectives (Duration: minutes)
 
