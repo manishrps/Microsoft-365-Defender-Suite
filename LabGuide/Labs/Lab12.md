@@ -7,12 +7,12 @@ In this lab, we will delve into investigating alerts and activities within the M
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1: Tag apps as sanctioned or unsanctioned
-- Task 2: Use the investigation tools
+- Exercise 1: Tag apps as sanctioned or unsanctioned
+- Exercise 2: Use the investigation tools
 
 ## Architecture Diagram
 
-### Task 1: Tag apps as sanctioned or unsanctioned
+### Exercise 1: Tag apps as sanctioned or unsanctioned
 
 1. In the Microsoft Defender Portal, under **Cloud Apps**, go to the **Cloud app catalog or Cloud discovery - > Discovered apps**.
 
@@ -20,7 +20,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/Alerts4.png)
 
-### Task 2: Use the investigation tools
+### Exercise 2: Use the investigation tools
 
 1. In the Microsoft Defender Portal, under **Cloud Apps**, go to the **Activity log(1)** and filter by a specific app. Select **Microsoft 365 Defender(2)**.
 
