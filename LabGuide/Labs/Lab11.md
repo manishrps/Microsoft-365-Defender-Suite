@@ -31,6 +31,8 @@ Setting up alerts in Microsoft Defender for Cloud Apps involves configuring poli
 
 ### Exercise 2: Setup App Governance  
 
+App Governance in Microsoft Defender for Cloud Apps empowers organizations to manage and regulate the usage of applications within their cloud environment. This functionality enables administrators to establish policies, controls, and compliance measures to oversee app activities. With App Governance, admins can enforce specific access policies, monitor app behavior for compliance violations, and implement measures to mitigate risks associated with app usage. This capability provides granular control and helps ensure that cloud applications align with security standards and organizational policies.
+
 #### Task 2.1: Turn on app governance
 
 1. Go to https://security.microsoft.com/ > Settings > Cloud Apps > App governance
