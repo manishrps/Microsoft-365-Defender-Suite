@@ -2,7 +2,7 @@
 
 ## Overview
 
-Microsoft 365 Defender is an integrated security suite designed to offer comprehensive protection across various Microsoft 365 services. It brings together multiple security solutions to provide advanced threat protection, detection, and response capabilities.
+Microsoft 365 Defender is an integrated security suite that offers comprehensive protection across various Microsoft 365 services. It combines multiple security solutions to provide advanced threat protection, detection, and response capabilities.
 
 
 ### Key features of Microsoft Defender
