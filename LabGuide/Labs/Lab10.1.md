@@ -50,6 +50,18 @@ Choose your user account for the lab tenant and select **Select**.
 
    >**Note**: Before proceeding, make sure to first sign out of existing sessions.
 
+1. Launch a new InPrivate browsing window, and browse to https://forms.microsoft.com.
+
+1. Select Sign in and log in them.
+
+1. Confirm that you get a new message as shown below:
+
+    - Access to Microsoft Forms is monitored.
+
+   ![Picture 1](../Media/image_49.png)
+
+1. Close the InPrivate browsing window.
+
 ## Exercise 2 - Create App Access Policies
 
 1. Launch a new InPrivate browsing window, and browse to https://www.microsoft365.com/.
@@ -77,18 +89,6 @@ Choose your user account for the lab tenant and select **Select**.
 1. Enter and select.
 
 1. Select **Create** to create the access policy.
-
-1. Launch a new InPrivate browsing window, and browse to https://forms.microsoft.com.
-
-1. Select Sign in and log in them.
-
-1. Confirm that you get a new message as shown below:
-
-    - Access to Microsoft Forms is monitored.
-
-   ![Picture 1](../Media/image_49.png)
-
-1. Close the InPrivate browsing window.
 
 ## Exercise 3 - Review the Activity Log in Defender for Cloud Apps
 
