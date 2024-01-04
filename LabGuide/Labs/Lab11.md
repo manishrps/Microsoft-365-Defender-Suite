@@ -45,7 +45,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
 3. Click on **Go to App governance**.
 
-   ![Picture 1](../Media/AppGovernance4.png) 
+   ![Picture 1](../Media/AppGovernance5a.png) 
    
    >**Note**: Once App governance is on. Sign in again to start using it.   
    >**Note**: You'll need to wait up to 10 hours to see and use the product.
