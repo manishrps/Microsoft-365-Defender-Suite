@@ -73,9 +73,9 @@ A Domain Controller (DC) is a vital component in a Windows-based network that ma
 
 9. When finished click the flag icon in the upper right corner and click on **Promote this server to a domain controller**.
 
-10. Now a new tab will open of Deployment configuration. Click on **Add a new forest**. Under **Root domain name** provide the domain which you can find in the Environment Details tab i.e. You can use the domain name which is present after the **@** <inject key="AzureAdUserEmail"></inject>.
+10. Now a new tab will open of Deployment configuration. Click on **Add a new forest**. Under **Root domain name** provide the domain name **contoso.com**.
 
-   ![Picture 1](../Media/dc11.png)
+   ![Picture 1](../Media/dcnew1.png)
 
 11. Under **Domain Controller Options** tab, keep the default settings and provide a DSRM password and click **Next**.
 
