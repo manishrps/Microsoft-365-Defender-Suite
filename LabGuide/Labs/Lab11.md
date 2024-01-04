@@ -33,7 +33,7 @@ Setting up alerts in Microsoft Defender for Cloud Apps involves configuring poli
 
 App Governance in Microsoft Defender for Cloud Apps empowers organizations to manage and regulate the usage of applications within their cloud environment. This functionality enables administrators to establish policies, controls, and compliance measures to oversee app activities. With App Governance, admins can enforce specific access policies, monitor app behavior for compliance violations, and implement measures to mitigate risks associated with app usage. This capability provides granular control and helps ensure that cloud applications align with security standards and organizational policies.
 
-#### Task 2.1: Turn on app governance
+#### Task 1: Turn on app governance
 
 1. Go to https://security.microsoft.com/ > Settings > Cloud Apps > App governance
 
@@ -50,7 +50,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
    ![Picture 1](../Media/AppGovernance4.png)
 
 
-#### Task 2.2: Create OAuth app policies for Microsoft Entra ID
+#### Task 2: Create OAuth app policies for Microsoft Entra ID
 
 1. To create a new app policy for Azure AD apps, go to Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy.
 
@@ -75,7 +75,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-6.png)
 
-6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**
+6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
    ![Picture 1](../Media/AppGovernance6-8.png)
 
@@ -83,19 +83,19 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-9.png)
 
-8. Under Set policy action select the check-box next to **Disable app** and select **Next**
+8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-12.png)
 
-9. Under Set policy status select **Active** and select **Next**
+9. Under Set policy status select **Active** and select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-13.png)
 
-10. Under review your policy select **Submit** and select **Done**
+10. Under review your policy select **Submit** and select **Done**.
 
     ![Picture 1](../Media/AppGovernance6-14.png)
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure alert notifications in Microsoft Defender XDR
+- Configure alert notifications in Microsoft Defender for Cloud Apps 
 - Setup App Governance
