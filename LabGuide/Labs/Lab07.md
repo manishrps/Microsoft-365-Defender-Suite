@@ -17,13 +17,27 @@ In this lab, you will complete the following tasks:
 
 In this task, you will create a Microsoft Entra ID User with Global Reader Permission. 
 
-1. Go to the Microsoft 
+1. On Azure Portal page, in **Search resources, services and docs (G+/)** box at the top of the portal, enter **Microsoft Entra ID**, and then select **Microsoft Entra ID** under services.
 
-1. In the **Sign in** dialog box, copy and paste * Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
+   ![Picture 1](../Media/Lab0701.png)
 
-1. In the **Enter password** dialog box, copy and paste * Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
+1. Select **Users** under **Manage** tab.
+   
+   ![Picture 1](../Media/Lab0702.png)
+   
+1. Click on **New user** and select **Create new user**.
 
-1. From the menu, under **Endpoints**, select **Evaluation & tutorials** and then select **Tutorials & simulations** from the left side.
+   ![Picture 1](../Media/Lab0703.png)
+
+1. Under the **Basic** tab give you **User principal name** as **TestUser** and enter the **Display name** as **testUser** now give your **Password** and click on **Assignment** tab.
+
+   ![Picture 1](../Media/Lab0704.png)
+
+1. In **Assignments** page, Click on **Add role** and select **Global Reader** and click on **Select**.
+
+  ![Picture 1](../Media/Lab0705.png)
+
+1. 
 
    ![Picture 1](../Media/incident1.png)
 
