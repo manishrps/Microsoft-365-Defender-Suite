@@ -82,6 +82,8 @@ With a VM pre-created and the IP settings configured we can move forward with in
 
    ![Picture 1](../Media/dc12.png)
 
+>**Note**: Keep the DSRM password in a notepad. You will be needing DSRM password while configuring Defender for Identity sensor in the next lab.
+
 12. In the **DNS Options** tab, Click **Next**.
 
 13. In the **Additional Options** tab, **The NetBIOS domain name** will be automatically populated and click **Next**.
