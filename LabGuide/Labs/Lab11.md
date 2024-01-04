@@ -42,8 +42,13 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 2. Select **Service status** under App governance. Select **Turn on app governance**.
 
    ![Picture 1](../Media/AppGovernance3.png)
+
+3. Click on **Go to App governance**.
+
+   ![Picture 1](../Media/AppGovernance4.png) 
    
->**Note**: You'll need to wait up to 10 hours to see and use the product.
+   >**Note**: Once App governance is on. Sign in again to start using it.   
+   >**Note**: You'll need to wait up to 10 hours to see and use the product.
 
 3. After getting, the app governance provisioned You will see the app governance page. In the Privacy consent required tab. Select **Accept**.
 
