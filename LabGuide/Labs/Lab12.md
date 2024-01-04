@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Tag apps as sanctioned or unsanctioned
 
+Sanctioned and unsanctioned are tags that you can apply to the cloud apps that are discovered by Defender for Cloud Apps. Sanctioned apps are those that are approved by your organization, while unsanctioned apps are those that are not.
+
 1. In the Microsoft Defender Portal, under **Cloud Apps**, go to the **Cloud app catalog or Cloud discovery - > Discovered apps**.
 
 2. In the list of apps, on the row in which the app you want to tag as sanctioned appears, choose the three dots at the end of the row Tag as sanctioned dots and choose Sanctioned.
