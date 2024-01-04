@@ -2,23 +2,22 @@
 
 ## Lab scenario
 
-
-Creating Incidents in Microsoft 365 Defender involves identifying potential security threats from various alerts and promptly responding to mitigate risks. Security analysts investigate these alerts to confirm their severity and impact.
-
 ## Lab objectives (Duration: minutes)
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Simulated Attacks create Incident
+- Exercise 1:
+- Exercise 2:
+- Exercise 3:
 
 ## Architecture Diagram
 
 
-### Exercise 1: Simulated Attacks to create Incident
+### Exercise 1: Create Microsoft Entra ID User
 
-In this task, you will run two simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
+In this task, you will create a Microsoft Entra ID User with Global Reader Permission. 
 
-1. If you are not already at the Microsoft 365 Defender portal in your Microsoft Edge browser, go to (https://security.microsoft.com). 
+1. Go to the Microsoft 
 
 1. In the **Sign in** dialog box, copy and paste * Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
