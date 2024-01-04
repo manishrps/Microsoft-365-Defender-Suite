@@ -2,9 +2,9 @@
 
 ## Lab scenario
 
-In this lab, users establish a Defender for Identity workspace by connecting it to the Windows Server Active Directory. They start by adding credentials in the Microsoft Defender Portal to create the workspace and establish connectivity.
+In this lab, you will establish a Defender for Identity workspace by connecting it to the Windows Server Active Directory. You will start by adding credentials in the Microsoft Defender Portal to create the workspace and establish connectivity.
 
-Next, within the Microsoft 365 Defender portal, they download and install the Defender for Identity sensor. This involves downloading the sensor installer package, extracting its contents, and running the setup wizard. During installation, users deploy the sensor, specifying access keys and default settings to fortify overall security measures.
+Next, within the Microsoft 365 Defender portal, you will download and install the Defender for Identity sensor. This involves downloading the sensor installer package, extracting its contents, and running the setup wizard. During installation, users deploy the sensor, specifying access keys and default settings to fortify overall security measures.
 
 ## Lab objectives (Duration: minutes)
 
