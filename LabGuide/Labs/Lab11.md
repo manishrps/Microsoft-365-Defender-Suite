@@ -45,8 +45,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
    
 >**Note**: You'll need to wait up to 10 hours to see and use the product.
 
-
-3. After getting, app governance provisioned You will see app governance page. In Privacy consent required tab. Select **Accept**.
+3. After getting, the app governance provisioned You will see the app governance page. In the Privacy consent required tab. Select **Accept**.
 
    ![Picture 1](../Media/AppGovernance4.png)
 
