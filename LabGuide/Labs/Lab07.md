@@ -37,6 +37,8 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0705.png)
 
+1. Click on **Review + create** to create the user.
+
 ### Exercise 2: Turn on All Incidents Alert.
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
