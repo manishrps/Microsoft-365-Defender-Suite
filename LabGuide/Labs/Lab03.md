@@ -36,13 +36,15 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
    ![Picture 1](../Media/4.png)
 
-5. Under Name your policy tab provide **Name** : anti-spam-<inject key="DeploymentID" enableCopy="false" /></inject> and Description: anti-spam and select Next.
+5. Under Name your policy tab provide **Name** : anti-spam and Description: anti-spam and select Next.
 
    ![Picture 1](../Media/5.png)
 
-6. Under Users, groups and domains tab add the Users, groups and domains to be included in the Anti spam policy and select Next.
+6. Under Users, groups and domains tab you will add the Users, groups and domains to be included in the Anti spam policy as depicted in the screenshot and select Next.
 
-   ![Picture 1](../Media/6.png)
+   ![Picture 1](../Media/antispams1.png)
+
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
 
 7. Under Bulk email threshold & spam properties tab. Keep the default option selected and select Next. (The properties are customizable and can be adjusted to suit specific requirements)
 
@@ -77,15 +79,17 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
    ![Picture 1](../Media/MALWARE4.png)
 
-5. Under Name your policy tab provide **Name** : anti-malware-<inject key="DeploymentID" enableCopy="false" /></inject> and Description: Malware Policy and select Next.
+5. Under Name your policy tab provide **Name** : anti-malware and Description: Malware Policy and select Next.
 
    ![Picture 1](../Media/MALWARE5.png)
 
 6. Under Users and domains tab add the Users, groups and domains to be included in the Anti malware policy and select Next.
 
-   ![Picture 1](../Media/MALWARE6.png)
+   ![Picture 1](../Media/antimalwares1.png)
 
-7. Under Protected settings tab. Keep the default option selected and select Next.
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
+
+7. Under Protected settings tab. Keep the default options selected and select Next.
 
    ![Picture 1](../Media/MALWARE7.png)
 
@@ -104,13 +108,15 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
 3. Under Policies Select the **Anti-phishing**.
 
-4. Under policy name tab provide **Name** : anti-phishing-<inject key="DeploymentID" enableCopy="false" /></inject> and Description: anti phishing and select Next.
+4. Under policy name tab provide **Name** : anti-phishing and Description: anti phishing and select Next.
 
    ![Picture 1](../Media/PHISHING1.png)
 
 5. Under Users, groups and domains tab add the Users, groups and domains to be included in the Anti phishing policy and select Next.
 
-   ![Picture 1](../Media/PHISHING2.png)
+   ![Picture 1](../Media/antiphishings1.png)
+
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
 
 6. Under Phishing threshold & protection tab add the senders and custom domains as required and select Next.
 
