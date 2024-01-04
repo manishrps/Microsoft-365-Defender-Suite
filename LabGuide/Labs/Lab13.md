@@ -2,17 +2,18 @@
 
 ## Lab scenario
 
-A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources like computers, printers, and files into a hierarchical structure. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
+In this lab, you will install Active Directory Domain Services on a pre-configured virtual machine and add 'Active Directory Domain Services' as a role, and promote the server to a domain controller. They specify domain details, set a DSRM password, configure default settings, and review options before installing. The process concludes with a successful prerequisites check, ensuring a streamlined installation of Active Directory.<br>
+<br>To fully implement and benefit from Defender for Identity capabilities, one of the prerequisites is configuring the server as a domain controller. This configuration allows Defender for Identity to monitor and analyze the identity-related activities, behaviors, and potential threats within the domain environment, providing insights and enhancing security measures specifically related to user identities and authentication protocols.
 
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1.1: Configure VM with Static IP Addresses
-- Task 1.2: Install Active Directory Domain Services
+- Exercise 1.1: Configure VM with Static IP Addresses
+- Exercise 1.2: Install Active Directory Domain Services
 
 ## Architecture Diagram
 
-### Task 1: Deploy Domain Controller 
+### Exercise 1: Deploy Domain Controller 
 
 #### Task 1.1 : Configure VM with Static IP Addresses
 
@@ -34,7 +35,9 @@ Domain controllers need a static IP address and the DNS pointing to itself. For 
 
 #### Task 1.2 : Install Active Directory Domain Services
 
+A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
 With a VM pre-created and the IP settings configured we can move forward with installing Active Directory on the server.
+
 1. From the jump VM. Search for **Server Manager** from the start menu and select it. Go to the server manager and click on **Add roles and features**.
 
    ![Picture 1](../Media/dc1.png)
