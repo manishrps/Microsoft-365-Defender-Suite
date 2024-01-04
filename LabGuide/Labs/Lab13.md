@@ -36,7 +36,6 @@ Domain controllers need a static IP address and the DNS pointing to itself. For 
 #### Task 1.2 : Install Active Directory Domain Services
 
 A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
-With a VM pre-created and the IP settings configured we can move forward with installing Active Directory on the server.
 
 1. From the jump VM. Search for **Server Manager** from the start menu and select it. Go to the server manager and click on **Add roles and features**.
 
