@@ -48,3 +48,8 @@ In this lab, you will complete the following tasks:
 5. The Finish page shows a confirmation message. Select Close to close the wizard.
 
    ![Picture 1](../Media/schedule4.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Access Defender for Identity reports
+- Schedule a report by email
