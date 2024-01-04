@@ -87,7 +87,7 @@ A Domain Controller (DC) is a vital component in a Windows-based network that ma
 
 13. In the **Additional Options** tab, **The NetBIOS domain name** will be automatically populated and click **Next**.
 
-   ![Picture 1](../Media/dc13.png)
+   ![Picture 1](../Media/dcnew2.png)
 
 14. In **Paths** tab, keep the default paths as specified for Database folder, Log files folder and SYSVOL folder and click **Next**.
 
