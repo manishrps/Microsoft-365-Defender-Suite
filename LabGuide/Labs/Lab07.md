@@ -39,13 +39,21 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
 ### Exercise 2: Turn on All Incidents Alert.
 
-1. 
+1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
-1. Under *Automated investigation (backdoor)* you will see a message describing the scenario. Below this paragraph, click **Read the walkthrough**. A new browser tab opens which includes instructions to perform the simulation.
+1. Under **Incidents and Alerts**, select **Incidents** and click on **Alert service settings**.
 
-   ![Picture 1](../Media/incident2.png)
+   ![Picture 1](../Media/Lab0706.png)
 
-1. In the new browser tab, locate the section named **Run the simulation** (page 5, starting at step 2) and follow the steps to run the attack. **Hint:** The simulation file *RS4_WinATP-Intro-Invoice.docm* can be found back in portal, just below the **Read the walkthrough** you selected in the previous step by selecting the **Get simulation file** button. 
+1. Under **Alert service settings**, click on **All Alerts**.
+
+   ![Picture 1](../Media/Lab0707.png)
+   
+1. Enable **We are monitoring all Microsoft Entra ID Protection alerts** and click on **Confirm**.
+
+   ![Picture 1](../Media/Lab0708.png)
+
+### Exercise 3: .
 
 1. After downloading the file,  open the file with **Microsoft Word** and enter the password as `WDATP!diy#`.
 
