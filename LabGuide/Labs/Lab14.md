@@ -12,7 +12,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-### Exercise 1: Tag apps as sanctioned or unsanctioned
+### Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
 
 1. To create a Defender for Identity workspace, Go to Microsoft Defender Portal, and from the left menu, select **Settings > Identities**.
 
@@ -22,6 +22,49 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/setupsensor2.png)
 
-3. In the Add credentials panel, enter Account name, Domain, and Password.
+3. In the Add credentials panel, provide the details and Select **Save**.
+- Account name : **demouser**
+- Domain : **contoso.com**
+- Password : **Provide the DSRM password given during Install Active Directory Domain Services**
 
    ![Picture 1](../Media/setupsensor3.png)
+
+### Exercise 2: Download and Install the Defender for Identity sensor
+
+1. In the Microsoft 365 Defender portal, from the left menu, select **Settings > Identities**.
+
+   ![Picture 1](../Media/setupsensor1.png)
+
+2. On the General tab, select **Sensors**. On the Sensors page, select **Add Sensor**.
+
+   ![Picture 1](../Media/setupsensor4.png)
+
+3. In the Add a new sensor pane, select **Download installer** and save the installation package locally. The downloaded zip file includes the following files:
+
+- The Defender for Identity sensor installer
+- The configuration setting file with the required information to connect to the Defender for Identity cloud service
+- Npcap OEM version 1.0, which is automatically installed by the sensor installation if it's not found to be already installed
+
+>**Note**: If the pop-ups are blocked by your browser, allow it to download the file.
+
+4. In the Add a new sensor pane, copy the **Access key** value and save it to a secured location. This access key is a one-time password for use when deploying the sensor, after which communication is performed using certificates for authentication and TLS encryption.
+
+   ![Picture 1](../Media/setupsensor5.png)
+
+>**Note**: You will use the access key while configuring the sensor. Use the Regenerate key button if you ever need to regenerate the new access key. It won't affect any previously deployed sensors, because it's only used for initial registration of the sensor.
+
+5. Extract the installation files from the zip file. Installing directly from the zip file fails.
+
+6. Run **Azure ATP sensor setup.exe** with elevated privileges (Run as administrator) and follow the setup wizard.
+
+7. On the Welcome page, select your language as **English** and select **Next**.
+
+   ![Picture 1](../Media/sensor1.png)
+
+8. The installation wizard automatically checks if the server is a domain controller, AD FS server, AC CS server, or a dedicated server. In **Sensor deployment type** screen **Sensor** option will be selected. Click **Next**.
+
+   ![Picture 1](../Media/sensor2.png)
+
+9. On the **Configure the sensor** screen, keep installation path as default and provide the setup package access key which was copied before in step 4. Select **Install**.
+
+   ![Picture 1](../Media/sensor3.png)
