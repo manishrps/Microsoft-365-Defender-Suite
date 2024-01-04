@@ -6,8 +6,8 @@
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1:
-- Exercise 2:
+- Exercise 1: Create Microsoft Entra ID User
+- Exercise 2: Turn on All Incidents Alert.
 - Exercise 3:
 
 ## Architecture Diagram
@@ -35,13 +35,11 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
 1. In **Assignments** page, Click on **Add role** and select **Global Reader** and click on **Select**.
 
-  ![Picture 1](../Media/Lab0705.png)
+   ![Picture 1](../Media/Lab0705.png)
+
+### Exercise 2: Turn on All Incidents Alert.
 
 1. 
-
-   ![Picture 1](../Media/incident1.png)
-
-1. Select the **Tutorials** tab.
 
 1. Under *Automated investigation (backdoor)* you will see a message describing the scenario. Below this paragraph, click **Read the walkthrough**. A new browser tab opens which includes instructions to perform the simulation.
 
