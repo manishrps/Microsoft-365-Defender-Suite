@@ -7,8 +7,8 @@ Defender for Identity Sensors within the Microsoft 365 Defender suite involves i
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Tag apps as sanctioned or unsanctioned
-- Exercise 2: Use the investigation tools
+- Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
+- Exercise 2: Download and Install the Defender for Identity sensor
 
 ## Architecture Diagram
 
@@ -68,3 +68,8 @@ In this lab, you will complete the following tasks:
 9. On the **Configure the sensor** screen, keep installation path as default and provide the setup package access key which was copied before in step 4. Select **Install**.
 
    ![Picture 1](../Media/sensor3.png)
+
+## Review
+In this lab, you will complete the following tasks:
+- Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
+- Download and Install the Defender for Identity sensor
