@@ -26,7 +26,7 @@ Using this environment, You'll be able to explore features and offerings offered
 
 - 2 *Windows Server 2019 Datacenter* Virtual machines, virtual machine-related resources like Virtual networks, Network security groups, managed disks, Network interface cards, and IP addresses are deployed as part of the automation.
 
-  You are recommended to use the same virtual machine throughout the lab for the best experience through out the lab.
+  These virtual machines are tailored and configured to the sandbox's specifications. Files, applications, packages, and OS configurations are all pre-configured. It is recommended that you use the same virtual machine throughout the lab for the best experience.
 
 #### **License and subscription**: 
 
@@ -61,7 +61,9 @@ Using this environment, You'll be able to explore features and offerings offered
 
 
 ## Lab Guide Contents:
-You will have access to a lab guide which is a reference material to assist you in getting started with the exploration. You are encouraged to explore Microsoft Defender further based on your interests and preferences.
+You will have access to a lab guide which is a reference material to assist you in getting started with the exploration.
+
+Based on your interests, you can use this lab guide as a reference to learn and test any Microsoft Sentinel feature. You are also encouraged to explore additional features of Microsoft Sentinel based on your interests and preferences.
 
 - Lab 01 - Explore Microsoft Defender Portal 
 - Lab 02 - Configure Email authentication
