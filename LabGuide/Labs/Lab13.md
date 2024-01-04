@@ -50,7 +50,7 @@ With a VM pre-created and the IP settings configured we can move forward with in
 
    ![Picture 1](../Media/dc3.png)
 
-4. In the **Server Selection** tab, select **Select a server from the server pool** and then select the hostname of your server i.e. **svm-<inject key="DeploymentID" enableCopy="false" /></inject>** and click **Next**.
+4. In the **Server Selection** tab, select **Select a server from the server pool** and then select the hostname of your server and click **Next**.
 
    ![Picture 1](../Media/dc4.png)
 
