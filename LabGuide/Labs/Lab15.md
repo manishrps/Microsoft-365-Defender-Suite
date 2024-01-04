@@ -8,6 +8,19 @@ Scheduling Defender for Identity reports in the Microsoft 365 Defender suite inv
 
 
 In this lab, you will complete the following tasks:
-- Task 1: 
+- Exercise 1: Access Defender for Identity reports
+- Exercise 2: Schedule a report by email
 
 ## Architecture Diagram
+
+### Exercise 1: Access Defender for Identity reports
+
+1. In Microsoft Defender XDR, select **Reports > Identities > Report management**.
+
+   ![Picture 1](../Media/download1.png)
+
+2. On the Identities reports page, select a report and then select **Download**.
+
+   ![Picture 1](../Media/download2.png)
+
+>**Note**: Your report is downloaded by your browser, where you can open or save it. Downloaded reports include a maximum of 100,000 rows.
