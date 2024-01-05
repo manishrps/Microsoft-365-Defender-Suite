@@ -12,7 +12,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-      ![Picture 1](../Media/lab6-arch.png)
+![Picture 1](../Media/lab6-arch.png)
 
 ### Exercise 1: Simulate a Phishing Attack.
 
