@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-Scheduling Defender for Identity reports in the Microsoft 365 Defender suite involves accessing the Defender for Identity portal or Security Center to gather insights on identity-based threats. Users can access various report options focusing on suspicious activities, compromised credentials, and overall security insights. Additionally, scheduling automated report generation allows regular monitoring of ongoing security trends and threat patterns, enabling proactive security measures. These reports provide valuable insights for understanding threats and user behavior, aiding in fortifying the organization's security posture.
+In this lab, you will leverage Microsoft Defender XDR to manage Defender for Identity reports efficiently. They access these reports and download specific reports containing a maximum of 100,000 rows for analysis. Additionally, you can schedule report delivery via email by defining conditions, specifying the delivery time, and adding recipient email addresses. This streamlines report access and enables automated delivery, facilitating enhanced security monitoring and information sharing.
 
 ## Lab objectives (Duration: minutes)
 
@@ -15,6 +15,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Access Defender for Identity reports
 
+Accessing Defender for Identity reports involves navigating through the Microsoft Defender XDR platform to the designated section for these reports. Users select specific reports of interest from the available options and proceed to download them. These reports, can be accessed via the browser, providing valuable insights and detailed information regarding identity-related activities within the network for analysis or record-keeping purposes.
+
 1. In Microsoft Defender XDR, select **Reports > Identities > Report management**.
 
    ![Picture 1](../Media/download1.png)
@@ -26,6 +28,8 @@ In this lab, you will complete the following tasks:
 >**Note**: Your report is downloaded by your browser, where you can open or save it. Downloaded reports include a maximum of 100,000 rows.
 
 ### Exercise 2: Schedule a report by email
+
+Scheduling a report by email for Identity reports within Microsoft Defender XDR allows users to automate report delivery to designated recipients. Users configure the schedule, defining conditions and specifying delivery times within the Defender XDR interface. This feature streamlines information sharing and enhances collaboration by ensuring timely delivery of vital identity-related insights and data to relevant stakeholders.
 
 1. In Microsoft Defender XDR, select **Reports > Identities > Report management**.
 
