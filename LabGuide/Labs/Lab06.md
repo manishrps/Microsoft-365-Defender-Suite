@@ -12,6 +12,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+      ![Picture 1](../Media/lab5-arch.png)
+
 ### Exercise 1: Simulate a Phishing Attack.
 
 In this we will sends fraudulent, malicious-like emails to their employees and assesses their response behavior. It helps evaluate the likelihood of each organization member falling for a phishing attack.
