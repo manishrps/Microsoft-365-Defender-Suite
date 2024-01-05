@@ -32,7 +32,7 @@ Sanctioned and unsanctioned are tags that you can apply to the cloud apps that a
 
    ![Picture 1](../Media/Alerts6.png)
 
-3. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**. Under Connected Apps, select **App connectors(2)**, then select **Microsoft Azure(3)**. The app dashboard opens and gives you information and insights.
+3. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**. Under Connected Apps, select **App connectors**, then select **Connect an app** and choose **Microsoft Azure** and then select **Microsoft Azure**. The app dashboard opens and gives you information and insights.
 
    ![Picture 1](../Media/Alerts7.png)
 

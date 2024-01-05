@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-App Access Policies within the Microsoft 365 Defender suite involves setting rules and controls to manage how applications are accessed and used within an organization's digital environment. By specifying access controls, such as limiting app usage to certain devices, locations, or user groups, organizations can strengthen their security posture and protect sensitive data from unauthorized access or misuse.
+In this lab, we will delve into configuring App Access Policies within the Microsoft 365 Defender suite. The scenario aims to enhance setting rules and controls to manage application access, enhancing an organization's security posture. The exercises include configuring integration with Microsoft Entra ID, creating App Access Policies, and reviewing the Activity Log in Defender for Cloud Apps. 
 
 ## Lab objectives (Duration:  minutes)
 

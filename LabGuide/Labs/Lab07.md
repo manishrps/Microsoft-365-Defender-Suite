@@ -1,67 +1,98 @@
 ## Lab 07 - Create Incidents 
 
 ## Lab scenario
-
-
-Creating Incidents in Microsoft 365 Defender involves identifying potential security threats from various alerts and promptly responding to mitigate risks. Security analysts investigate these alerts to confirm their severity and impact.
+In this lab the key tasks related to create incident in Microsoft Defender. The exercises include creating a Microsoft Entra ID user with Global Reader permissions, enabling all incidents alerts, and simulating an incident by downloading the Tor Browser. The objective is to enhance proficiency in incident identification, response, and resolution within the Microsoft Defender environment.
 
 ## Lab objectives (Duration: minutes)
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Simulated Attacks create Incident
+- Exercise 1: Create Microsoft Entra ID User
+- Exercise 2: Turn on All Incidents Alert.
+- Exercise 3: Create an Incidents.
 
 ## Architecture Diagram
 
 
-### Exercise 1: Simulated Attacks to create Incident
+### Exercise 1: Create Microsoft Entra ID User
 
-In this task, you will run two simulated attacks to explore the capabilities of Microsoft Defender for Endpoint.
+In this task, you will create a Microsoft Entra ID User with Global Reader Permission. 
 
-1. If you are not already at the Microsoft 365 Defender portal in your Microsoft Edge browser, go to (https://security.microsoft.com). 
+1. On Azure Portal page, in **Search resources, services and docs (G+/)** box at the top of the portal, enter **Microsoft Entra ID**, and then select **Microsoft Entra ID** under services.
 
-1. In the **Sign in** dialog box, copy and paste * Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
+   ![Picture 1](../Media/Lab0701.png)
 
-1. In the **Enter password** dialog box, copy and paste * Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
+1. Select **Users** under **Manage** tab.
+   
+   ![Picture 1](../Media/Lab0702.png)
+   
+1. Click on **New user** and select **Create new user**.
 
-1. From the menu, under **Endpoints**, select **Evaluation & tutorials** and then select **Tutorials & simulations** from the left side.
+   ![Picture 1](../Media/Lab0703.png)
 
-   ![Picture 1](../Media/incident1.png)
+1. Under the **Basic** tab give you **User principal name** as **TestUser** and enter the **Display name** as **testUser** now give your **Password** and click on **Assignment** tab.
 
-1. Select the **Tutorials** tab.
+   ![Picture 1](../Media/Lab0704.png)
 
-1. Under *Automated investigation (backdoor)* you will see a message describing the scenario. Below this paragraph, click **Read the walkthrough**. A new browser tab opens which includes instructions to perform the simulation.
+1. In **Assignments** page, Click on **Add role** and select **Global Reader** and click on **Select**.
 
-   ![Picture 1](../Media/incident2.png)
+   ![Picture 1](../Media/Lab0705.png)
 
-1. In the new browser tab, locate the section named **Run the simulation** (page 5, starting at step 2) and follow the steps to run the attack. **Hint:** The simulation file *RS4_WinATP-Intro-Invoice.docm* can be found back in portal, just below the **Read the walkthrough** you selected in the previous step by selecting the **Get simulation file** button. 
+1. Click on **Review + create** to create the user.
 
-1. After downloading the file,  open the file with **Microsoft Word** and enter the password as `WDATP!diy#`.
+### Exercise 2: Turn on All Incidents Alert.
 
-1. In the Sign in dialog box, click on **Sign in** copy and paste in the Username and password provided in the environment details page, and select next.    
+1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
-1. Click **Enable Editing** if the document opens inProtectedView. If you see a subsequent security warning about macros being disabled.    
+1. Under **Incidents and Alerts**, select **Incidents** and click on **Alert service settings**.
 
-1. To unblock the document, navigate to its location in File Explorer. In File Explorer, right-click the document, and select Properties. In the General tab, mark the Unblock option under Security.   
+   ![Picture 1](../Media/Lab0706.png)
 
-1. Close the **Microsoft Word** and re-open from the File Explorer and enter the password as `WDATP!diy#` after re-opening click on **Enable Content** and click on **OK**. 
+1. Under **Alert service settings**, click on **All Alerts**.
 
-1. In the Command prompt pop-up press any key to close. 
-      
->**Note:** **Congrats – you’re done running the attack!** The attack simulation ends here. A real attacker, if successful, would likely continue to scan for information, send collected reconnaissance information to a command-and-control (C&C) server, and use this information to move laterally and pursue other attractive targets. Next, let’s review and investigate the Defender for Endpoint alerts that surfaced in the simulated attack.
+   ![Picture 1](../Media/Lab0707.png)
+   
+1. Enable **We are monitoring all Microsoft Entra ID Protection alerts** and click on **Confirm**.
 
->**Note:** Alerts should start to appear 15-30 minutes after the simulated backdoor is launched.
+   ![Picture 1](../Media/Lab0708.png)
 
-14. In the Microsoft 365 Defender portal select **Incidents & alerts** from the left menu bar, then select **Incidents**.
+### Exercise 3: Create an Incidents.
 
-   ![Picture 1](../Media/incident3.png)
+1. Open a New Tab in browser and search for **tor browser download**, Click on the **Tor Project | Download**.
 
-15. A new incident called "Multi-stage incident..." is in the right pane. Click the incident name to load its details.
+   ![Picture 1](../Media/Lab0709.png)
 
-   ![Picture 1](../Media/incident4.png)
+1. Once the website load scroll down and click on the **Download for Windows** to download the Tor Browser.
 
-   ![Picture 1](../Media/incident5.png)
+   ![Picture 1](../Media/Lab0710.png)
+
+1. Once the browser downloaded sucessfully, Click to **Open file** and press **OK**, When it ask for Installer Language.
+
+   ![Picture 1](../Media/Lab0711.png)
+
+1. From **Choose Install Location** page, Click on **Install**.
+
+   ![Picture 1](../Media/Lab0712.png)
+
+1. Click on **Finish**.
+
+1. Now launch your browser it will ask for **Connect to Tor** and click on **Connect**.
+
+   ![Picture 1](../Media/Lab0713.png)
+
+1. In your browser search for the **portal.azure.com** and login with your user creadential which you created with the **Global Reader** role you will get the **NoScript XSS Warning** message.
+
+   ![Picture 1](../Media/Lab0714.png)
+
+1. Now navigate back to the Microsoft Defender Portal at https://security.microsoft.com/.
+
+1. Under **Incidents and Alerts**, select **Incidents**, It will genrate a **Anonymous IP address involving one user**.
+
+   ![Picture 1](../Media/Lab0715.png)
+
 
 ## Review
 In this lab, you will complete the following tasks:
-- Simulated Attacks to create Incident
+- Create Microsoft Entra ID User
+- Turn on All Incidents Alert
+- Create an Incidents
