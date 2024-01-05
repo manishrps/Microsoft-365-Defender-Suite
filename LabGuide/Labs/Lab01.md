@@ -4,7 +4,7 @@
 
 The Microsoft Defender portal at https://security.microsoft.com combines protection, detection, investigation, and response to email, collaboration, identity, device, and cloud app threats, in a central place. The Defender portal emphasizes quick access to information, simpler layouts, and bringing related information together for easier use.
 
-## Lab objectives (Duration:  minutes)
+## Lab objectives (Duration: 10 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1: Learn about Microsoft Defender Portal
