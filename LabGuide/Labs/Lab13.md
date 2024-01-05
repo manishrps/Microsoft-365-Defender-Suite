@@ -2,17 +2,18 @@
 
 ## Lab scenario
 
-A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources like computers, printers, and files into a hierarchical structure. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
+In this lab, you will install Active Directory Domain Services on a pre-configured virtual machine and add 'Active Directory Domain Services' as a role, and promote the server to a domain controller. They specify domain details, set a DSRM password, configure default settings, and review options before installing. The process concludes with a successful prerequisites check, ensuring a streamlined installation of Active Directory.<br>
+<br>To fully implement and benefit from Defender for Identity capabilities, one of the prerequisites is configuring the server as a domain controller. This configuration allows Defender for Identity to monitor and analyze the identity-related activities, behaviors, and potential threats within the domain environment, providing insights and enhancing security measures specifically related to user identities and authentication protocols.
 
 ## Lab objectives (Duration: minutes)
 
 In this lab, you will complete the following tasks:
-- Task 1.1: Configure VM with Static IP Addresses
-- Task 1.2: Install Active Directory Domain Services
+- Exercise 1.1: Configure VM with Static IP Addresses
+- Exercise 1.2: Install Active Directory Domain Services
 
 ## Architecture Diagram
 
-### Task 1: Deploy Domain Controller 
+### Exercise 1: Deploy Domain Controller 
 
 #### Task 1.1 : Configure VM with Static IP Addresses
 
@@ -34,7 +35,8 @@ Domain controllers need a static IP address and the DNS pointing to itself. For 
 
 #### Task 1.2 : Install Active Directory Domain Services
 
-With a VM pre-created and the IP settings configured we can move forward with installing Active Directory on the server.
+A Domain Controller (DC) is a vital component in a Windows-based network that manages security, authentication, and access control. It runs the Active Directory Domain Services (AD DS) role, storing user account information, authenticating user logins, managing permissions, and organizing network resources. Essentially, it acts as a centralized hub, controlling and coordinating access to the network's resources, ensuring security, and enforcing policies across the domain.
+
 1. From the jump VM. Search for **Server Manager** from the start menu and select it. Go to the server manager and click on **Add roles and features**.
 
    ![Picture 1](../Media/dc1.png)
@@ -47,7 +49,7 @@ With a VM pre-created and the IP settings configured we can move forward with in
 
    ![Picture 1](../Media/dc3.png)
 
-4. In the **Server Selection** tab, select **Select a server from the server pool** and then select the hostname of your server i.e. **svm-<inject key="DeploymentID" enableCopy="false" /></inject>** and click **Next**.
+4. In the **Server Selection** tab, select **Select a server from the server pool** and then select the hostname of your server and click **Next**.
 
    ![Picture 1](../Media/dc4.png)
 
@@ -71,19 +73,21 @@ With a VM pre-created and the IP settings configured we can move forward with in
 
 9. When finished click the flag icon in the upper right corner and click on **Promote this server to a domain controller**.
 
-10. Now a new tab will open of Deployment configuration. Click on **Add a new forest**. Under **Root domain name** provide the domain which you can find in the Environment Details tab i.e. You can use the domain name which is present after the **@** <inject key="AzureAdUserEmail"></inject>.
+10. Now a new tab will open of Deployment configuration. Click on **Add a new forest**. Under **Root domain name** provide the domain name **contoso.com**.
 
-   ![Picture 1](../Media/dc11.png)
+   ![Picture 1](../Media/dcnew1.png)
 
 11. Under **Domain Controller Options** tab, keep the default settings and provide a DSRM password and click **Next**.
 
    ![Picture 1](../Media/dc12.png)
 
+>**Note**: Keep the DSRM password in a notepad. You will be needing DSRM password while configuring Defender for Identity sensor in the next lab.
+
 12. In the **DNS Options** tab, Click **Next**.
 
 13. In the **Additional Options** tab, **The NetBIOS domain name** will be automatically populated and click **Next**.
 
-   ![Picture 1](../Media/dc13.png)
+   ![Picture 1](../Media/dcnew2.png)
 
 14. In **Paths** tab, keep the default paths as specified for Database folder, Log files folder and SYSVOL folder and click **Next**.
 
