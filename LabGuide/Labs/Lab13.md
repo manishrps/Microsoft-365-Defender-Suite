@@ -93,11 +93,11 @@ A Domain Controller (DC) is a vital component in a Windows-based network that ma
 
    ![Picture 1](../Media/dc14.png)
 
-15. In **Review Options** tab, Review your settings and click **Next**.
+15. In **Review Options** tab, review your settings and click **Next**.
 
    ![Picture 1](../Media/dc15.png)
 
-16. In **Prerequisites Check** tab, You will see All prerequisite checks passed successfully. Click on **Install**
+16. In **Prerequisites Check** tab, you will see All prerequisite checks passed successfully. Click on **Install**
 
    ![Picture 1](../Media/dc16.png)
 
