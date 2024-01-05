@@ -15,19 +15,14 @@ In this lab, you will complete the following tasks:
 ### Task 1: Detect & Investigate threats 
 
 
-1. In the Microsoft 365 Defender portal select **Incidents & alerts** from the left menu bar, then select **Incidents**.
+1. In the Microsoft 365 Defender portal select **Incidents & alerts** from the left menu bar, then select **Incidents**. A new incident called "Anonymous IP address involving one user" is in the right pane. Click the incident name to load its details.
 
    ![Picture 1](../Media/Lab0715.png)
-
-1. A new incident called "Multi-stage incident..." is in the right pane. Click the incident name to load its details.
-
-   ![Picture 1](../Media/incident4.png)
-
-   ![Picture 1](../Media/incident5.png)
+   ![Picture 1](../Media/Lab0801.png)
 
 1. Select the **Manage incident** button and a new window blade appears.
 
-   ![Picture 1](../Media/incident6.png)
+   ![Picture 1](../Media/Lab0802.png)
 
 1. In the Manage incident window, You can see that the **Incident Name** is already populated.
 
