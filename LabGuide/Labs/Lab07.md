@@ -57,6 +57,20 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
 ### Exercise 3: .
 
+1. Open a New Tab in browser and search for **tor browser download**, Click on the **Tor Project | Download**.
+
+1. Once the website load scroll down and click on the **Download for Windows** to download the Tor Browser.
+
+1. Once the browser downloaded sucessfully, Click to **Open file** and press **OK**, When it ask for Installer Language.
+
+1. From **Choose Install Location** page, Click on **Install**.
+
+1. Click on **Finish**.
+
+1. Now launch your browser it will ask for **Connect to Tor** and click on **Connect**.
+
+
+
 
 ## Review
 In this lab, you will complete the following tasks:
