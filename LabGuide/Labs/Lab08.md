@@ -17,7 +17,7 @@ In this lab, you will complete the following tasks:
 
 1. In the Microsoft 365 Defender portal select **Incidents & alerts** from the left menu bar, then select **Incidents**.
 
-   ![Picture 1](../Media/incident3.png)
+   ![Picture 1](../Media/Lab0715.png)
 
 1. A new incident called "Multi-stage incident..." is in the right pane. Click the incident name to load its details.
 
