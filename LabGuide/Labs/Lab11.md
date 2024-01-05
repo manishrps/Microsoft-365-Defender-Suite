@@ -78,7 +78,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-4.png)
 
-5. Under Set policy scope and conditions. Select Specific Apps and from Choose apps select the application **cpvclodlabsacademy**. Click **Add(1)**.
+5. In Set policy scope and conditions tab, under Policy scope Select **All apps** and then select **Next**.
 
    ![Picture 1](../Media/new2.png)
 
@@ -86,7 +86,9 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-8.png)
 
-7. Under Edit policy conditions. Select **Add condition** and select **Data usage** and select **Save** and then select **Next**.
+7. Under Edit policy conditions. Select **Add condition** and select **Data usage**. A new tab will open of **Edit policy conditions** under Data usage provide **1** and select **Save** and then select **Next**.
+
+   ![Picture 1](../Media/AppGovernance6-9.png)
 
    ![Picture 1](../Media/AppGovernance6-9.png)
 
