@@ -4,7 +4,7 @@
 
 In this lab, we will delve into configuring App Access Policies within the Microsoft 365 Defender suite. The scenario aims to enhance setting rules and controls to manage application access, enhancing an organization's security posture. The exercises include configuring integration with Microsoft Entra ID, creating App Access Policies, and reviewing the Activity Log in Defender for Cloud Apps. 
 
-## Lab objectives (Duration:  minutes)
+## Lab objectives (Duration: 30 minutes)
 
 In this lab, you will complete the following tasks:
 
