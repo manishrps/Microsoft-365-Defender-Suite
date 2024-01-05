@@ -4,7 +4,7 @@
 
 In this lab, you will Configure Anti-Spam, Anti-Malware, and Anti-Phishing policies in Microsoft Defender for Office 365 involves setting up rules to detect unwanted emails (spam), safeguard against malicious software (malware), and identify and block phishing attempts.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 50 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1: Configure Anti-Spam Policy
