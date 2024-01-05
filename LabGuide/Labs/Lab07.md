@@ -3,7 +3,7 @@
 ## Lab scenario
 In this lab the key tasks related to create incident in Microsoft Defender. The exercises include creating a Microsoft Entra ID user with Global Reader permissions, enabling all incidents alerts, and simulating an incident by downloading the Tor Browser. The objective is to enhance proficiency in incident identification, response, and resolution within the Microsoft Defender environment.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 50 minutes)
 
 
 In this lab, you will complete the following tasks:
