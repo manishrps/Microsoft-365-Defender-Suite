@@ -13,6 +13,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab13-arch.png)
+
 ### Exercise 1: Deploy Domain Controller 
 
 #### Task 1.1 : Configure VM with Static IP Addresses
