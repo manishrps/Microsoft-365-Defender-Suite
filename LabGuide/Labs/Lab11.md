@@ -90,7 +90,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-9.png)
 
-   ![Picture 1](../Media/AppGovernance6-9.png)
+   ![Picture 1](../Media/new3.png)
 
 8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
