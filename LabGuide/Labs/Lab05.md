@@ -13,6 +13,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab5-arch.png)
+
 ### Exercise 1: Create Block Lists
 
 In this exercise, we will access the Microsoft Defender Portal to create Block Lists. By configuring these lists, we can block specific URLs, using wildcards if needed. This action enhances our organization's security posture by preventing access to URLs that pose potential security threats. The configuration allows us to control and restrict the flow of traffic, ensuring a safer environment for our network and users.

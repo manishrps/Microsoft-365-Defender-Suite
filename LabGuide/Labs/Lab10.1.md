@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab10-arch.png)
+
 ### Exercise 1: Configure integration with Microsoft Entra ID
 
 1. Navigate to Azure Portal, in **Search resources, services and docs** search and select for **Microsoft Entra ID**.
