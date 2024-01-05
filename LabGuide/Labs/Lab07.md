@@ -8,7 +8,7 @@
 In this lab, you will complete the following tasks:
 - Exercise 1: Create Microsoft Entra ID User
 - Exercise 2: Turn on All Incidents Alert.
-- Exercise 3:
+- Exercise 3: Create an Incidents.
 
 ## Architecture Diagram
 
@@ -55,7 +55,7 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0708.png)
 
-### Exercise 3: .
+### Exercise 3: Create an Incidents.
 
 1. Open a New Tab in browser and search for **tor browser download**, Click on the **Tor Project | Download**.
 
@@ -93,4 +93,5 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 ## Review
 In this lab, you will complete the following tasks:
 - Create Microsoft Entra ID User
-- Turn on All Incidents Alert.
+- Turn on All Incidents Alert
+- Create an Incidents
