@@ -4,7 +4,7 @@
 
 In this lab, you will leverage Microsoft Defender XDR to manage Defender for Identity reports efficiently. They access these reports and download specific reports containing a maximum of 100,000 rows for analysis. Additionally, you can schedule report delivery via email by defining conditions, specifying the delivery time, and adding recipient email addresses. This streamlines report access and enables automated delivery, facilitating enhanced security monitoring and information sharing.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 20 minutes)
 
 
 In this lab, you will complete the following tasks:
