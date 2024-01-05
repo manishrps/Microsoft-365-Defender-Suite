@@ -12,6 +12,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab12-arch.png)
+
 ### Exercise 1: Tag apps as sanctioned or unsanctioned
 
 Sanctioned and unsanctioned are tags that you can apply to the cloud apps that are discovered by Defender for Cloud Apps. Sanctioned apps are those that are approved by your organization, while unsanctioned apps are those that are not.
