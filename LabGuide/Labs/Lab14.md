@@ -14,8 +14,9 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-### Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
+   ![Picture 1](../Media/lab14-arch.png)
 
+### Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
 
 The Defender for Identity workspace in Microsoft Defender creates a secure environment for monitoring identity activities. Linking this workspace to Windows Server Active Directory involves adding credentials in the Defender portal, ensuring smooth integration with on-premises data. This connection enables detailed visibility and analysis of identity-related events and potential security threats within the Active Directory infrastructure.
 

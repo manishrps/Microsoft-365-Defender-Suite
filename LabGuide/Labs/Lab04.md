@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab4-arch.png)
+
 ### Exercise 1: Add Priority Accounts. 
 
 By concentrating security efforts on Priority Accounts, organizations can effectively strengthen their overall security posture and better protect their most crucial accounts from potential cyber threats within the Microsoft 365 ecosystem.

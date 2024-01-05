@@ -13,6 +13,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab15-arch.png)
+
 ### Exercise 1: Access Defender for Identity reports
 
 Accessing Defender for Identity reports involves navigating through the Microsoft Defender XDR platform to the designated section for these reports. Users select specific reports of interest from the available options and proceed to download them. These reports, can be accessed via the browser, providing valuable insights and detailed information regarding identity-related activities within the network for analysis or record-keeping purposes.

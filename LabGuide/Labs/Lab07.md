@@ -13,6 +13,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab7-arch.png)
 
 ### Exercise 1: Create Microsoft Entra ID User
 
