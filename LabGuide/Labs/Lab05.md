@@ -4,7 +4,7 @@
 
 This lab focuses on configuring Block and Allow Lists in Microsoft Defender to enhance security measures. The exercises will guide you through the process of creating Block Lists and Allow Lists to manage URLs effectively.
 
-## Lab objectives (Duration: 30 minutes)
+## Lab objectives (Duration: 20 minutes)
 
 
 In this lab, you will complete the following tasks:
