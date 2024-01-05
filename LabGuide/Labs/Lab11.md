@@ -72,23 +72,25 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 - Description: Custom Policy <inject key="DeploymentID" enableCopy="false" /></inject>
 - Severity: Low
 
-   ![Picture 1](../Media/AppGovernance6-3-1.png)
+   ![Picture 1](../Media/new1.png)
 
 4. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
 
    ![Picture 1](../Media/AppGovernance6-4.png)
 
-5. Under Set policy scope and conditions. Select Specific Apps and from Choose apps select the application **cpvclodlabsacademy**. Click **Add(1)**.
+5. In Set policy scope and conditions tab, under Policy scope Select **All apps** and then select **Next**.
 
-   ![Picture 1](../Media/AppGovernance6-6.png)
+   ![Picture 1](../Media/new2.png)
 
 6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
    ![Picture 1](../Media/AppGovernance6-8.png)
 
-7. Under Edit policy conditions. Select **Add condition** and select **Data usage** and select **Save** and then select **Next**.
+7. Under Edit policy conditions. Select **Add condition** and select **Data usage**. A new tab will open of **Edit policy conditions** under Data usage provide **1** and select **Save** and then select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-9.png)
+
+   ![Picture 1](../Media/new3.png)
 
 8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
