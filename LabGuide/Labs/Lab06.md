@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Simulate a Phishing Attack.
 
+In this we will sends fraudulent, malicious-like emails to their employees and assesses their response behavior. It helps evaluate the likelihood of each organization member falling for a phishing attack.
+
 1. Go to Microsoft Defender portal at https://security.microsoft.com.
 
 1. Go to **Email & collaboration** > **Attack simulation training** > **Simulations** tab and Click on **Launch a Simulation**.
