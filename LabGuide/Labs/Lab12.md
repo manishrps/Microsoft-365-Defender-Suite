@@ -4,7 +4,7 @@
 
 In this lab, we will delve into investigating alerts and activities within the Microsoft Defender for Cloud environment. The scenario involves addressing security concerns related to cloud applications and user activities. we will have to tag specific apps as either sanctioned or unsanctioned, utilization of investigation tools to meticulously examine the activity log of a designated app and gaining hands-on experience in managing app classifications for security purposes.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 20 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1: Tag apps as sanctioned or unsanctioned
