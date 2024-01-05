@@ -4,7 +4,7 @@
 
 In this lab, participants will delve into the process of discovering apps within their organization using Microsoft Defender. The exercise focuses on creating a snapshot report that captures insights from log files to provide visibility to cloud app activity.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 15 minutes)
 
 In this lab, you will complete the following tasks:
 
