@@ -16,6 +16,9 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
 
+
+Defender for Identity workspace involves establishing a secure environment within Microsoft Defender, enabling comprehensive monitoring and analysis of identity-related activities. Connecting this workspace to Windows Server Active Directory involves adding credentials within the Defender portal, ensuring seamless integration and access to on-premises environment data. This connection enables detailed visibility and analysis of identity-related events and potential security threats within the Active Directory infrastructure, empowering proactive security measures and enhanced threat detection capabilities.
+
 1. To create a Defender for Identity workspace, Go to Microsoft Defender Portal, and from the left menu, select **Settings > Identities**.
 
    ![Picture 1](../Media/setupsensor1.png)
@@ -32,6 +35,8 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/setupsensor3.png)
 
 ### Exercise 2: Download and Install the Defender for Identity sensor
+
+The Defender for Identity sensor is a core element in Microsoft Defender, specifically designed to monitor and protect against identity-based threats in a network. Installed on servers like domain controllers, it actively analyzes user authentication activities, swiftly detecting and flagging suspicious behavior or potential threats related to user identities. Its focused role is to provide prompt alerts and insights, contributing to proactive risk mitigation in the network's identity and authentication processes.
 
 1. In the Microsoft 365 Defender portal, from the left menu, select **Settings > Identities**.
 
