@@ -1,9 +1,5 @@
 ## Lab 03 - Configure Protection Policies
 
-## Overview
-
-In Microsoft 365 Defender, use Defender for Office 365 to set up Anti-Spam, Anti-Malware, and Anti-Phishing measures. Access the Security & Compliance Center to create policies tailored to detect and manage spam emails, shield against malicious attachments and links, and identify phishing attempts.
-
 ## Lab scenario
 
 In this lab, you will Configure Anti-Spam, Anti-Malware, and Anti-Phishing policies in Microsoft Defender for Office 365 involves setting up rules to detect unwanted emails (spam), safeguard against malicious software (malware), and identify and block phishing attempts.
