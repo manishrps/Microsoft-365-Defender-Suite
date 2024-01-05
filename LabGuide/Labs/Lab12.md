@@ -30,17 +30,27 @@ Sanctioned and unsanctioned are tags that you can apply to the cloud apps that a
 
    ![Picture 1](../Media/Alerts5.png)
 
-2. You can see the **Activity(1)** in the app that you have selected, **User(2)** who have done the activity, **IP address(3)** from which the activity was performed, from which **Location(4)** user has accesses the app and from which **Device(5)** and **Date(6)** the app was accessed.
+2. You can see the **Activity** in the app that you have selected, **User** who have done the activity, **IP address** from which the activity was performed, from which **Location** user has accesses the app and from which **Device** and **Date** the app was accessed.
 
    ![Picture 1](../Media/Alerts6.png)
 
-3. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**. Under Connected Apps, select **App connectors**, then select **Connect an app** and choose **Microsoft Azure** and then select **Microsoft Azure**. The app dashboard opens and gives you information and insights.
+3. In the Microsoft Defender Portal, select **Settings**. Then choose **Cloud Apps**. Under Connected Apps, select **App connectors**, then select **Connect an app** and choose **Microsoft Azure**.
 
-   ![Picture 1](../Media/Alerts7.png)
+   ![Picture 1](../Media/Alerts10.png)
+
+1. Click on the **Connect Microsoft Azure** and select **Done**.
+
+   ![Picture 1](../Media/Alerts11.png)
+
+1. Select app **Microsoft Azure**.
+
+   ![Picture 1](../Media/Alerts12.png)
+
+1. The app dashboard opens and gives you information and insights.
 
    ![Picture 1](../Media/Alerts8.png)
 
-4. In the Microsoft Defender Portal, under Cloud Apps, go to **Cloud Discovery(1)**. Select the **Dashboard(2)** tab and check the following items:
+5. In the Microsoft Defender Portal, under Cloud Apps, go to **Cloud Discovery(1)**. Select the **Dashboard(2)** tab and check the following items:
 
 - What cloud apps are being used, to what extent, and by which users?
 
