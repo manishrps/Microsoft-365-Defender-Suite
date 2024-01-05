@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-Detecting and investigating threats in Microsoft 365 Defender involves actively monitoring security signals, swiftly identifying anomalies using advanced analytics, and conducting detailed investigations upon confirming threats. Security analysts prioritize alerts, perform thorough analyses, and take immediate containment and remediation actions.
+The lab focuses on the task of detecting and investigating threats within the Microsoft Defender environment. The task is to analysts the actively monitoring security signals, swiftly identifying anomalies, and conducting thorough investigations upon confirming potential threats.
 
 ## Lab objectives (Duration: minutes)
 
