@@ -10,8 +10,6 @@ In this lab, you will complete the following tasks:
 - Exercise 1: Learn about Microsoft Defender Portal
 - Exercise 2: Login to Microsoft Defender Portal
 
-## Architecture Diagram
-
 ### Exercise 1: Learn about Microsoft Defender Portal [Read Only]
 
 The Microsoft Defender portal combines protection, detection, investigation, and response to email, collaboration, identity, device, and cloud app threats, in a central place. The Defender portal emphasizes quick access to information, simpler layouts, and bringing related information together for easier use. It includes:
