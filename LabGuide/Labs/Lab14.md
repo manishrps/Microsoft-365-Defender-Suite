@@ -19,7 +19,7 @@ In this lab, you will complete the following tasks:
 
 The Defender for Identity workspace in Microsoft Defender creates a secure environment for monitoring identity activities. Linking this workspace to Windows Server Active Directory involves adding credentials in the Defender portal, ensuring smooth integration with on-premises data. This connection enables detailed visibility and analysis of identity-related events and potential security threats within the Active Directory infrastructure.
 
-1. To create a Defender for Identity workspace, Go to Microsoft Defender Portal, and from the left menu, select **Settings > Identities**.
+1. To create a Defender for Identity workspace, go to Microsoft Defender Portal, and from the left menu, select **Settings > Identities**.
 
    ![Picture 1](../Media/setupsensor1.png)
 
@@ -27,7 +27,7 @@ The Defender for Identity workspace in Microsoft Defender creates a secure envir
 
    ![Picture 1](../Media/setupsensor2.png)
 
-3. In the Add credentials panel, provide the details and Select **Save**.
+3. In the Add credentials panel, provide the details and select **Save**.
 - Account name : **demouser**
 - Domain : **contoso.com**
 - Password : **Provide the DSRM password given during Install Active Directory Domain Services**
