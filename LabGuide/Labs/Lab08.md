@@ -36,7 +36,7 @@ In this lab, you will complete the following tasks:
 
 1. Add any comments if desired and click **Save** to finish.
 
-   ![Picture 1](../Media/incident7.png)
+   ![Picture 1](../Media/Lab0803.png)
 
 1. Review the contents of the Alerts, Devices, Users, Investigations, Evidence, Response, and Graph tabs. **Hint:** Some tabs might be hidden due to the size of your display. Select the ellipsis tab (...) to make them appear.
 
