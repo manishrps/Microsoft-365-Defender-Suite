@@ -8,11 +8,11 @@ Detecting and investigating threats in Microsoft 365 Defender involves actively 
 
 
 In this lab, you will complete the following tasks:
-- Task 1: Detect & Investigate threats 
+- Exercise 1: Detect & Investigate threats 
 
 ## Architecture Diagram
 
-### Task 1: Detect & Investigate threats 
+### Exercise 1: Detect & Investigate threats 
 
 
 1. In the Microsoft 365 Defender portal select **Incidents & alerts** from the left menu bar, then select **Incidents**. A new incident called "Anonymous IP address involving one user" is in the right pane. Click the incident name to load its details.
