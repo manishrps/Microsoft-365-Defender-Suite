@@ -54,7 +54,7 @@ Sanctioned and unsanctioned are tags that you can apply to the cloud apps that a
 
    ![Picture 1](../Media/Alerts9.png)
 
-5. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Files**. If any files has been shared we can see: How many files are shared publicly so that anyone can access them without a link? With which partners are you sharing files (outbound sharing)? Do any files have a sensitive name? or Are any of the files being shared with someone's personal account?
+5. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Files**. If any files have been shared we can see: How many files are shared publicly so that anyone can access them without a link? With which partners are you sharing files (outbound sharing)? Do any files have a sensitive name? or are any of the files being shared with someone's personal account?
 
 ## Review
 In this lab, you will complete the following tasks:
