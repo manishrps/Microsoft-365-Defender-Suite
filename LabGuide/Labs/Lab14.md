@@ -6,7 +6,7 @@ In this lab, you will establish a Defender for Identity workspace by connecting 
 
 Next, within the Microsoft 365 Defender portal, you will download and install the Defender for Identity sensor. This involves downloading the sensor installer package, extracting its contents, and running the setup wizard. During installation, users deploy the sensor, specifying access keys and default settings to fortify overall security measures.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 30 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1: Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
