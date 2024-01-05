@@ -4,7 +4,7 @@
 
 The lab focuses on the task of detecting and investigating threats within the Microsoft Defender environment. The task is to analysts the actively monitoring security signals, swiftly identifying anomalies, and conducting thorough investigations upon confirming potential threats.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 20 minutes)
 
 
 In this lab, you will complete the following tasks:
