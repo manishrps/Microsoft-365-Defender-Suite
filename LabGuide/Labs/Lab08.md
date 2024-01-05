@@ -24,7 +24,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/Lab0802.png)
 
-1. In the Manage incident window, You can see that the **Incident Name** is already populated.
+1. In the Manage incident window, you can see that the **Incident Name** is already populated.
 
 1. Under **Incident tags** type "Tutorial" and select **Tutorial (Create new)** to create a new tag. 
 
