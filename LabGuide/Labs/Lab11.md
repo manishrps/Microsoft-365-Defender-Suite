@@ -24,7 +24,7 @@ Setting up alerts in Microsoft Defender for Cloud Apps involves configuring poli
 
    ![Picture 1](../Media/alerts12.png)
 
-3. In the My email notifications page, select the checkbox for **Receive email notifications for defender for Cloud Apps alerts whose severity is atleast** and under **Choose Severity** click on the dropdown button and select **Medium**. Click on **Save**.
+3. In the My email notifications page, select the checkbox for **Receive email notifications for defender for Cloud Apps alerts whose severity is at least** and under **Choose Severity** click on the dropdown button and select **Medium**. Click on **Save**.
 
    ![Picture 1](../Media/alerts13.png)
 
@@ -72,7 +72,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance6-3-1.png)
 
-4. Under Set policy scope and conditions tab Select **No, I'll customize the policy**.
+4. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
 
    ![Picture 1](../Media/AppGovernance6-4.png)
 

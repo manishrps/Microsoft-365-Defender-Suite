@@ -14,6 +14,8 @@ In this lab, you will complete the following tasks:
 
 ### Exercise 1: Tag apps as sanctioned or unsanctioned
 
+Sanctioned and unsanctioned are tags that you can apply to the cloud apps that are discovered by Defender for Cloud Apps. Sanctioned apps are those that are approved by your organization, while unsanctioned apps are those that are not.
+
 1. In the Microsoft Defender Portal, under **Cloud Apps**, go to the **Cloud app catalog or Cloud discovery - > Discovered apps**.
 
 2. In the list of apps, on the row in which the app you want to tag as sanctioned appears, choose the three dots at the end of the row Tag as sanctioned dots and choose Sanctioned.
@@ -52,7 +54,7 @@ In this lab, you will complete the following tasks:
 
    ![Picture 1](../Media/Alerts9.png)
 
-5. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Files**. If any files has been shared we can see: How many files are shared publicly so that anyone can access them without a link? With which partners are you sharing files (outbound sharing)? Do any files have a sensitive name? or Are any of the files being shared with someone's personal account?
+5. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Files**. If any files have been shared we can see: How many files are shared publicly so that anyone can access them without a link? With which partners are you sharing files (outbound sharing)? Do any files have a sensitive name? or are any of the files being shared with someone's personal account?
 
 ## Review
 In this lab, you will complete the following tasks:

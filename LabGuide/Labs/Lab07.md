@@ -62,11 +62,11 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0709.png)
 
-1. Once the website load scroll down and click on the **Download for Windows** to download the Tor Browser.
+1. Once the website loads scroll down and click on the **Download for Windows** to download the Tor Browser.
 
    ![Picture 1](../Media/Lab0710.png)
 
-1. Once the browser downloaded sucessfully, Click to **Open file** and press **OK**, When it ask for Installer Language.
+1. Once the browser downloaded successfully, Click to **Open file** and press **OK**, When it ask for Installer Language.
 
    ![Picture 1](../Media/Lab0711.png)
 
@@ -80,7 +80,7 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0713.png)
 
-1. In your browser search for the **portal.azure.com** and login with your user creadential which you created with the **Global Reader** role you will get the **NoScript XSS Warning** message.
+1. In your browser search for the **portal.azure.com** and login with your user credential which you created with the **Global Reader** role you will get the **NoScript XSS Warning** message.
 
    ![Picture 1](../Media/Lab0714.png)
 

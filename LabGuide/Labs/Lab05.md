@@ -19,7 +19,7 @@ In this exercise, we will access the Microsoft Defender Portal to create Block L
 
 1. Go to Microsoft Defender Portal at https://security.microsoft.com/.
 
-2. Go to **Policies & rules** and Click on **Threat Policies**.
+2. Go to **Policies & rules** and click on **Threat Policies**.
 
    ![Picture 1](../Media/image_9.png)
 
@@ -44,11 +44,11 @@ In this exercise, we will access the Microsoft Defender Portal to create Block L
 
    ![Picture 1](../Media/block2.png)
 
-1. Once you configure the block URL, you can send a mail to the user using your email ID with the given link: **loop.microsoft.com** in your email. you will find the mail is blocked as you don't recived.
+1. Once you configure the block URL, you can send a mail to the user using your email ID with the given link: **loop.microsoft.com** in your email. you will find the mail is blocked as you don't received.
 
    ![Picture 1](../Media/mail.png)
 
-    >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to recived mail.
+    >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to received mail.
 ### Exercise 2: Create Allow Lists
 
 In this exercise, we will utilize the Microsoft Defender portal to establish Allow Lists. By submitting URLs for Microsoft analysis, we enable the system to recognize and allow specific URLs that are deemed clean. This proactive approach helps in preventing false positives and ensures that legitimate URLs are not inadvertently blocked. Configuring Allow Lists is crucial for maintaining a balance between stringent security measures and allowing essential, trustworthy URLs to function seamlessly within our network.

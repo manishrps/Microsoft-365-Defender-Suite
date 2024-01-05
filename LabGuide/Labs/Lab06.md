@@ -22,7 +22,7 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_18.png)
    
-1. On the **Select technique** page, select **Credential Harvest** and Click on **Next**.
+1. On the **Select technique** page, select **Credential Harvest** and click on **Next**.
 
       ![Picture 1](../Media/image_19.png)
    
@@ -34,11 +34,11 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
    ![Picture 1](../Media/image_20.png)
 
-1. On the **Select payload and login page** page, you need to select **Reset Password** and Click on **Next**.
+1. On the **Select payload and login page** page, you need to select **Reset Password** and click on **Next**.
 
       ![Picture 1](../Media/image_22.png)
 
-1.  On the **Target users** screen, Select **Include only specific users and groups** and Click **Add users**.
+1.  On the **Target users** screen, Select **Include only specific users and groups** and click **Add users**.
 
       ![Picture 1](../Media/image_23.png)
 
@@ -62,7 +62,7 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_28.png)
 
-1.  **Select end user notification** page, Select **Microsoft default notification (recommended)** and under the *Notifications* section, In  the  *Microsoft default notification Positive reinforcement notifications* select the **Deliver during simulations** and in *Microsoft default training reminder notification* select the **Twice a week**, Click on **Next**.
+1.  **Select end user notification** page, Select **Microsoft default notification (recommended)** and under the *Notifications* section, In the  *Microsoft default notification Positive reinforcement notifications* select the **Deliver during simulations** and in *Microsoft default training reminder notification* select the **Twice a week**, Click on **Next**.
 
       ![Picture 1](../Media/image_29.png)
 
