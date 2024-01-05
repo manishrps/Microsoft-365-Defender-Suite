@@ -5,7 +5,7 @@
 In this lab, you will install Active Directory Domain Services on a pre-configured virtual machine and add 'Active Directory Domain Services' as a role, and promote the server to a domain controller. They specify domain details, set a DSRM password, configure default settings, and review options before installing. The process concludes with a successful prerequisites check, ensuring a streamlined installation of Active Directory.<br>
 <br>To fully implement and benefit from Defender for Identity capabilities, one of the prerequisites is configuring the server as a domain controller. This configuration allows Defender for Identity to monitor and analyze the identity-related activities, behaviors, and potential threats within the domain environment, providing insights and enhancing security measures specifically related to user identities and authentication protocols.
 
-## Lab objectives (Duration: minutes)
+## Lab objectives (Duration: 40 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1.1: Configure VM with Static IP Addresses
