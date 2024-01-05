@@ -13,6 +13,8 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
+   ![Picture 1](../Media/lab2-arch.png)
+
 ### Exercise 1: Configure DMARC For MOERA Domain
 
 As we are using the MOERA domain for email, SPF (Sender Policy Framework) and DKIM (DomainKeys Identified Mail) record will be already configured, we only need to manually set up the DMARC record.
