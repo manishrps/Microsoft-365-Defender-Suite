@@ -26,7 +26,7 @@ In this lab, you will complete the following tasks:
 - **Description** : New report
 - **Source** : Blue coat ProxySG - Access log(W3C)
 
-   ![Picture 1](../Media/DiscoverApps 9.png)
+   ![Picture 1](../Media/DiscoverApps9.png)
 
 4. Select **Browse** and choose the source from which you want to upload the log files and select the sample log file which was downloaded in previous step. Select **Upload logs**.
 
