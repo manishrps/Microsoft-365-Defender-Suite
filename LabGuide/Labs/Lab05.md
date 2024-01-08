@@ -65,7 +65,7 @@ In this exercise, we will utilize the Microsoft Defender portal to establish All
 
 3. On the **Submit to Microsoft for analysis** flyout that opens, configure the following settings and select **Submit**:
    - **Select the submission type**: URL
-   - **URL**: contoso.com/*
+   - **URL**: loop.microsoft.com
    - **Why are you submitting this URL to Microsoft**: It appears clean
 
    ![Picture 1](../Media/allow2.png)
